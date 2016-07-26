@@ -1,0 +1,104 @@
+﻿#EXTM3U
+
+#EXTINF:0 ,logo-lg.mp4 - usb
+usb://logo-lg.mp4
+
+#EXTINF:0 ,ss_playlist_20150522.m3u - Z_bkp_Exe\
+Z:\bkp\Exe\ss_playlist_20150522.m3u
+
+#EXTINF:0 ,ss_playlist_20150522.m3u - Z_bkp_Exe\
+Z:/bkp/Exe/ss_playlist_20150522.m3u
+
+#EXTINF:0 ,ss_playlist_20150522.m3u - F
+F:\ss_playlist_20150522.m3u
+
+#EXTINF:0 ,ss_playlist_20150522.m3u - F
+F:/ss_playlist_20150522.m3u
+
+#EXTINF:0 ,ss_playlist_20150522.m3u - F
+F://ss_playlist_20150522.m3u
+
+#EXTINF:0 ,1-Canais TV
+http://pastebin.com/raw/LQA47X79		
+
+#EXTINF:0 ,2-Canais TV1
+http://pastebin.com/raw/y7Qy15A3		
+
+#EXTINF:0 ,3-TV´s
+http://tvlg.16mb.com/tv.m3u		
+
+#EXTINF:0 ,4-Canais Back-Up
+http://pastebin.com/raw/wwX7t8J2		
+
+#EXTINF:0 ,5-Canais_Cristiano
+http://j.mp/CristianoIPTV		
+
+#EXTINF:0 ,6-Lista Victor
+http://j.mp/Channels-ON		
+
+#EXTINF:0 ,7-Lista Igor
+http://j.mp/igoriptv		
+
+#EXTINF:0 ,8-Lista Rafilds
+http://bit.ly/Rafilds-HD		
+
+#EXTINF:0 ,9-Lista Jean Nunes
+http://www.tvaovivolista.com		
+
+#EXTINF:0 ,10-Lista Canal Claudio
+http://bit.ly/RedeNetTv		
+
+#EXTINF:0 ,11-Lista Agenor
+http://www.fusaka.com.br/Agenor		
+
+#EXTINF:0 ,12-Lista Milton: em URL
+http://bit.ly/lista-milton		
+
+#EXTINF:0 ,13-Lista Milton: SMARTV em URL
+http://bit.ly/smartv-milton		
+
+#EXTINF:0 ,14-Lista IPTV Brasil HD
+http://pastebin.com/raw/ptmvdQGw		
+
+#EXTINF:0 ,15-IPTV Online
+http://www.iptvonline.tk/lista/		
+
+#EXTINF:0 ,16-Channels-ON
+http://pastebin.com/raw/7Sjg7MmZ		
+
+#EXTINF:0 ,17-Canais Esporte BR
+http://pastebin.com/raw/y7r8GZ4k		
+
+#EXTINF:0 ,18-Séries
+http://pastebin.com/raw/7VuduY3L		
+
+#EXTINF:0 ,19-Filmes
+http://pastebin.com/raw/UaFwdZQe		
+
+#EXTINF:0 ,20-ON Series
+http://j.mp/ONSeries		
+
+#EXTINF:0 ,21-Lista de Filmes
+http://bit.ly/CinemaIPTV		
+
+#EXTINF:0 ,22-Lista de Series
+http://bit.ly/ONSeries		
+
+#EXTINF:0 ,23-Filmes de Terror Do Caio
+http://pastebin.com/raw/LEQtpnN4		
+
+#EXTINF:0 ,24-766-filmes-IPPTV-BRASIL-HD
+http://pastebin.com/raw/8B7vt7Bn		
+
+#EXTINF:0 ,25-Filmes_Cristiano
+http://j.mp/CristianoIPTV-Filmes		
+
+#EXTINF:0 ,26-Series_Cristiano
+http://j.mp/CristianoIPTV-Series		
+
+#EXTINF:0 ,27-SeriesLeg_Cristiano
+http://j.mp/CristianoIPTV-SeriesLeg		
+
+#EXTINF:0 ,28-Animes_Cristiano
+http://j.mp/CristianoIPTV-Animes
+		
