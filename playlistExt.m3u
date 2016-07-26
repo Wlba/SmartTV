@@ -1,0 +1,85 @@
+﻿
+#EXTM3U
+
+## Obs.: Este Arquivo é o resultado do Arquivo Fonte (.doc) e serve p/a Filtrar as nova URL a serem adicionadas em (.doc)
+##       e serve p/a Filtrar as nova URL, já testadas, a serem adicionadas em (.doc)
+
+##******************* (TV´S ABERTAS) *******************
+##$
+
+#EXTINF:0 tvg-name="" tvg-logo="" audio-track="pot,eng" ,External Playlists.m3u (usb)
+usb://External Playlists.m3u
+
+#EXTINF:0 tvg-name="" tvg-logo="" audio-track="pot,eng" ,A Vingança de Wyatt Earp Dublado 2012-1.wmv (usb)
+usb://A Vingança de Wyatt Earp Dublado 2012-1.wmv
+
+#EXTINF:0 tvg-name="" tvg-logo="" audio-track="pot,eng" ,A Vingança de Wyatt Earp Dublado 2012-1.mp4 (usb)
+usb://A Vingança de Wyatt Earp Dublado 2012-2.mp4
+
+#EXTINF:0 tvg-name="" tvg-logo="" audio-track="pot,eng" ,logo-lg.mp4 (usb)
+usb://logo-lg.mp4
+
+#EXTINF:0 tvg-name="" tvg-logo="" audio-track="pot,eng" ,Appaloosa - Uma Cidade Sem Lei Dublado 2008-1.wmv (usb_Filmes_Wlb)
+usb://Filmes/Wlb/Appaloosa - Uma Cidade Sem Lei Dublado 2008-1.wmv
+
+#EXTINF:0 tvg-name="" tvg-logo="" audio-track="pot,eng" ,Appaloosa - Uma Cidade Sem Lei Dublado 2008-2.mp4 (usb_Filmes_Wlb)
+usb://Filmes/Wlb/Appaloosa - Uma Cidade Sem Lei Dublado 2008-2.mp4
+
+#EXTINF:0 tvg-name="" tvg-logo="" audio-track="pot,eng" ,Bonanza S02Ep21 Vingança Em Portugues.mp4 (usb_Filmes_Wlb)
+usb://Filmes/Wlb/Bonanza S02Ep21 Vingança Em Portugues.mp4
+
+#EXTINF:0 tvg-name="" tvg-logo="" audio-track="pot,eng" ,Horta (Verduras) 140925.MTS (usb_Filmes_Wlb)
+usb://Filmes/Wlb/Horta (Verduras) 140925.MTS
+
+#EXTINF:0 tvg-name="" tvg-logo="" audio-track="pot,eng" ,Meu Nome é Ninguém Dublado 1973-1.wmv (usb_Filmes_Wlb)
+usb://Filmes/Wlb/Meu Nome é Ninguém Dublado 1973-1.wmv
+
+#EXTINF:0 tvg-name="" tvg-logo="" audio-track="pot,eng" ,Meu Nome é Ninguém Dublado 1973-2.mp4 (usb_Filmes_Wlb)
+usb://Filmes/Wlb/Meu Nome é Ninguém Dublado 1973-2.mp4
+
+#EXTINF:0 tvg-name="" tvg-logo="" audio-track="pot,eng" ,Viva Django 1968 Dublado-1.wmv (usb_Filmes_Wlb)
+usb://Filmes/Wlb/Viva Django 1968 Dublado-1.wmv
+
+#EXTINF:0 tvg-name="" tvg-logo="" audio-track="pot,eng" ,Viva Django 1968 Dublado-2.flv (usb_Filmes_Wlb)
+usb://Filmes/Wlb/Viva Django 1968 Dublado-2.flv
+
+#EXTINF:0 tvg-name="" tvg-logo="https://goo.gl/krGojA" audio-track="pot,eng" ,Record HD MG
+dtv://antenna:28/atsc/2/1
+   
+#EXTINF:0 tvg-name="" tvg-logo="http://goo.gl/puUEe2" audio-track="pot,eng" aspect-ratio="4:3" ,TV Pampa RS (LD) - RedeTV!
+http://192.99.101.129:1935/rafael926/encoder/live.m3u8
+
+#EXTINF:0 channelId="2436" tvg-logo="" audio-track="pot,eng" ,RedeTV! HD MG
+dtv://antenna:25/atsc/4/1
+   
+#EXTINF:0 tvg-name="TV Alterosa HD" tvg-logo="http://goo.gl/AMuw6R" audio-track="pot,eng" ,TV Alterosa HD - SBT
+dtv://antenna:36/atsc/5/1
+   
+#EXTINF:0 tvg-name="" tvg-logo="http://goo.gl/UInuLF" audio-track="pot,eng" ,TV Cidade Verde PI (SD)- SBT
+http://192.99.46.182:1935/pioneira-tv3/pioneira-tv3/live.m3u8
+
+#EXTINF:0 tvg-name="Band HDTV" tvg-logo="" audio-track="pot,eng" ,Band HDTV 
+dtv://antenna:20/atsc/7/1
+
+#EXTINF:0 tvg-name="" tvg-logo="http://goo.gl/8ieXye" audio-track="pot,eng" ,TV Baiana BA (LD) - Cultura
+http://djrirxrhcghq9.cloudfront.net/tvbaiana/aovivo/playlist.m3u8
+
+#EXTINF:0 tvg-name="Rede Minas HD" tvg-logo="http://goo.gl/319A11" audio-track="pot,eng" ,Rede Minas HD
+dtv://antenna:17/atsc/9/1
+
+#EXTINF:0 tvg-name="" tvg-logo="http://goo.gl/0mMTFv" audio-track="pot,eng" aspect-ratio="4:3" ,TV Via Morena Campo Grande MS (LD)
+http://wowza3.netpoint.com.br:1935/viamorena/live/livestream.m3u8
+
+#EXTINF:0 tvg-name="Band HDTV" tvg-logo="http://riciptv.ucoz.net/band_bahia.png" audio-track="pot,eng" ,Band RS (SD)
+http://evp.mm.uol.com.br:1935/bandpracas/bandcidaders/playlist.m3u8
+
+#EXTINF:0 tvg-name="" tvg-logo="https://goo.gl/aJN3F6" audio-track="pot,eng" ,TV Globo HD MG
+dtv://antenna:33/atsc/12/1
+
+#EXTINF:0 tvg-name="" tvg-logo="https://goo.gl/VF9sVC" audio-track="pot,eng" ,Rede Brasil MG
+atv://antenna:14/atsc/14/0
+
+#EXTINF:0 tvg-name="" tvg-logo="http://goo.gl/7xOycD" audio-track="pot,eng" ,Rede Brasil SP
+http://173.236.10.10:1935/rbtv/rbtv/playlist.m3u8
+
+
