@@ -1,4 +1,3 @@
-﻿
 #EXTM3U
 
 ## Obs.: Este Arquivo é o resultado do Arquivo Fonte (.doc) e serve p/a Filtrar as nova URL a serem adicionadas em (.doc)
@@ -8,7 +7,7 @@
 ##$
 
 #EXTINF:0 tvg-name="" tvg-logo="" audio-track="pot,eng" ,External Playlists.m3u (usb)
-usb://External Playlists.m3u
+https://raw.githubusercontent.com/Wlba/SmartTV/master/External Playlists.m3u
 
 #EXTINF:0 tvg-name="" tvg-logo="" audio-track="pot,eng" ,A Vingança de Wyatt Earp Dublado 2012-1.wmv (usb)
 usb://A Vingança de Wyatt Earp Dublado 2012-1.wmv
