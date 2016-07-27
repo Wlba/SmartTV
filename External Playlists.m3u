@@ -1,4 +1,7 @@
-﻿#EXTM3U
+#EXTM3U
+
+#EXTINF:0 ,ss_video_20160704.m3u
+https://raw.githubusercontent.com/Wlba/SmartTV/master/ss_video_20160704.m3u
 
 #EXTINF:0 ,logo-lg.mp4 - usb
 usb://logo-lg.mp4
