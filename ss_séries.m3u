@@ -1,8 +1,42 @@
-﻿#EXTM3U
+#EXTM3U SIZE: medium
 
-##EXTINF:0 channelId="-1" tvg-logo="http://examples.com/logos/films/fantastic4.png" , Ilha da Fantasia
+#EXTINF:0 type="playlist" tvg-logo="http://goo.gl/2I0GWY" description="*** Vários Seriados ***" ,Ilha da Fantasia
+#EXTSIZE: medium
 http://tvlg.16mb.com/S_ILHA_FANTASIA_D.m3u
 
-#EXTINF:-1 channelId="-1" , Curso de Inglês Completo - 29 Aulas
+#EXTINF:0 type="playlist" tvg-logo="http://goo.gl/j911Fo" description="Completo com 29 Aulas" ,Curso de Inglês 
+#EXTSIZE: medium
 http://tvlg.16mb.com/aula.ingles.m3u
 
+#EXTINF:0 type="playlist" tvg-logo="" description="01" ,Séries
+http://pastebin.com/raw/7VuduY3L		
+
+#EXTINF:0 type="playlist" tvg-logo="" description="02" ,Filmes
+http://pastebin.com/raw/UaFwdZQe		
+
+#EXTINF:0 type="playlist" tvg-logo="" description="03" ,ON Series
+http://j.mp/ONSeries		
+
+#EXTINF:0 type="playlist" tvg-logo="" description="04" ,Lista de Filmes
+http://bit.ly/CinemaIPTV		
+
+#EXTINF:0 type="playlist" tvg-logo="" description="05" ,Lista de Series
+http://bit.ly/ONSeries		
+
+#EXTINF:0 type="playlist" tvg-logo="" description="06" ,Filmes de Terror Do Caio
+http://pastebin.com/raw/LEQtpnN4		
+
+#EXTINF:0 type="playlist" tvg-logo="" description="07" ,766-filmes-IPPTV-BRASIL-HD
+http://pastebin.com/raw/8B7vt7Bn		
+
+#EXTINF:0 type="playlist" tvg-logo="" description="08" ,Filmes_Cristiano
+http://j.mp/CristianoIPTV-Filmes		
+
+#EXTINF:0 type="playlist" tvg-logo="" description="09" ,Series_Cristiano
+http://j.mp/CristianoIPTV-Series		
+
+#EXTINF:0 type="playlist" tvg-logo="" description="10" ,SeriesLeg_Cristiano
+http://j.mp/CristianoIPTV-SeriesLeg		
+
+#EXTINF:0 type="playlist" tvg-logo="" description="11" ,Animes_Cristiano
+http://j.mp/CristianoIPTV-Animes
