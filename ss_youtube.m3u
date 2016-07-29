@@ -1,6 +1,6 @@
 #EXTM3U
 
-#EXTINF:0 type="playlist" tvg-logo="http://goo.gl/OXenAk" description="*** Filmes ***" , YouTube
+#EXTINF:0 type="playlist" tvg-logo="http://goo.gl/OXenAk" description="Filmes" , YouTube
 #EXTSIZE: medium
 https://raw.githubusercontent.com/Wlba/SmartTV/master/ss_youFilmes.m3u
 
@@ -45,3 +45,5 @@ http://www.youtube.com/watch?v=h261VxElcME
 
 #EXTINF:0 type="video" , Eleve o parâmetro dos desafios
 http://www.youtube.com/watch?v=oLpUfUESjQM
+
+
