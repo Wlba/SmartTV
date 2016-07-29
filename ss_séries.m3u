@@ -1,11 +1,9 @@
-#EXTM3U SIZE: medium
+#EXTM3U size: medium
 
-#EXTINF:0 type="playlist" tvg-logo="http://goo.gl/2I0GWY" description="*** Vários Seriados ***" ,Ilha da Fantasia
-#EXTSIZE: medium
+#EXTINF:0 type="playlist" tvg-logo="http://goo.gl/2I0GWY" description="Vários Seriados" ,Ilha da Fantasia
 http://tvlg.16mb.com/S_ILHA_FANTASIA_D.m3u
 
 #EXTINF:0 type="playlist" tvg-logo="http://goo.gl/j911Fo" description="Completo com 29 Aulas" ,Curso de Inglês 
-#EXTSIZE: medium
 http://tvlg.16mb.com/aula.ingles.m3u
 
 #EXTINF:0 type="playlist" tvg-logo="" description="01" ,Séries
