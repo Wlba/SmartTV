@@ -1,8 +1,12 @@
-﻿#EXTM3U
+#EXTM3U
 
-#EXTINF:0 type="video" tvg-logo="http://goo.gl/UhdvKk" description="Dublado Filmes Bluray » John Wayne, o Rei dos Westerns, no papel do Barão McLintock, vive aqui um fazendeiro de gado do Oeste Americano, e em conjunto com sua família, luta para a preservação de suas propriedades contra políticos desonestos que desejam se apoderar de tudo que lhe pertence, inclusive sua própria honra. Participação especial de Stephanie Powers (Casal 20 da TV), em início de carreira, como a filha do Barão McLintock." , Quando um Homem é um Homem
+#EXTINF:0 type="video" tvg-logo="http://goo.gl/UhdvKk" description="Dublado Filmes Bluray » John Wayne, o Rei dos Westerns, no papel do Barão McLintock, vive aqui um fazendeiro de gado do Oeste Americano, e em conjunto com sua família, luta para a preservação de suas propriedades contra políticos desonestos que desejam se apoderar de tudo que lhe pertence, inclusive sua própria honra. Participação especial de Stephanie Powers (Casal 20 da TV), em início de carreira, como a filha do Barão McLintock." ,Quando um Homem é um Homem
 #EXTSIZE: medium
-http://s001.thevid.net/v/3725de7e8b4445c7a029b9fd03680980.mp4?st=ORwKdGJwL0cQp8T_1njcuQ
+http://s001.thevid.net/v/3725de7e8b4445c7a029b9fd03680980.mp4?st=2hTMHCt95YcvQ27mG4cN5Q
+
+#EXTINF:0 type="video" tvg-logo="http://goo.gl/7nshQ2" description="Filme Bluray Dublado – Atormentado por um segredo obscuro, um pistoleiro abandona sua vida de assassinatos e volta para casa, quando descobre que sua mãe morreu. Ele é forçado a confrontar seu distante pai e a vida que deixou para trás." ,Forsaken
+#EXTSIZE: medium
+http://s002.thevid.net/v/06ba70073cb04d9d5da2c32a1e71f611.mp4?st=fzt8_dkfxiriIc-HS9ff8A
 
 #EXTINF:0 channelId="-1" , CORAÇÃO LOUCO
 https://3.bp.blogspot.com/Hb1qrayDvnkeeEPioqamiTObkPKiB3NsRhlkROmc_7s=m22
