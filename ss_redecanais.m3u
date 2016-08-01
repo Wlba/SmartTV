@@ -1,7 +1,16 @@
 #EXTM3U
 
-#EXTINF:0 type="video" , Safári na África (Dublado) - 2013 - 720p
+#EXTINF:0 type="video" tvg-logo="http://goo.gl/hxYeb3" description="(Dublado) - 2013 - 720p. Documentário" ,Safári na África
+#EXTSIZE: medium
 http://servercrazzy.crazzy.com/RedeCanais/RedeCanais/RCFServer1/ondemand/SFRNAFRIC.mp4
+
+#EXTINF:0 type="video" tvg-logo="http://goo.gl/09UCHN" description="(Dublado) - 1966 - 720p. Um pistoleiro sem nome (Clint Eastwood) chega à San Miguel, uma cidade no México que faz fronteira com os Estados Unidos. O lugar está em guerra, dividido entre duas facções poderosas, os Baxters e os Rojos, e ambas querem o apoio do pistoleiro. Para ganhar dinheiro, ele aceita as duas propostas e passa a trabalhar para as gangues rivais." ,Por um Punhado de Dólares
+#EXTSIZE: medium
+http://server.crazzy.com/RedeCanais/RedeCanais/RCFServer1/ondemand/PRUMPNHDDOLRS.mp4
+
+#EXTINF:0 type="video" tvg-logo="http://goo.gl/1GTjep" description="(Dublado) - 1966 - 720p. Em meio à Guerra Civil Americana, três homens fazem de tudo para colocar as mãos em 200 mil dólares roubados." ,Três Homens em Conflito
+#EXTSIZE: medium
+http://server.crazzy.com/RedeCanais/RedeCanais/RCFServer1/ondemand/TSHMNSEMCFLT.mp4
 
 #EXTINF:0 type="video" , Perseguição
 http://servercrazzy.crazzy.com/RedeCanais/RedeCanais/RCFServer1/ondemand/PRSGCAO.mp4
