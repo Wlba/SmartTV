@@ -1,0 +1,104 @@
+#EXTM3U
+#PLAYLIST: - Playlist BH
+
+#EXTINF:0 tvg-logo="https://encurtador.com.br/dkBOZ" group-title="Minha Lista" ,88.7 FM Rádio Transamérica BH 
+https://playerservices.streamtheworld.com/api/livestream-redirect/RT_BHAAC.aac
+
+#EXTINF:0,89.5 FM Rádio BandNews BH
+https://playerservices.streamtheworld.com/api/livestream-redirect/BANDNEWSFM_BHAAC.aac?dist=radios.com.br&1719924732552
+
+#EXTINF:0,91.7 FM Rádio O Tempo BH
+https://9134.brasilstream.com.br/stream
+
+#EXTINF:0,94.9 FM Rádio Alvorada BH
+https://playerservices.streamtheworld.com/api/livestream-redirect/RADIO_ALVORADAAAC.aac
+
+#EXTINF:0 tvg-logo="https://encurtador.com.br/kpxBC" group-title="Minha Lista" ,95.7 FM Radio Itatiaia BH
+https://8903.brasilstream.com.br/stream
+
+#EXTINF:0,98.3 FM Rádio 98 BH
+https://9554.brasilstream.com.br/stream?1650073947920
+
+#EXTINF:0,100.9 FM Rádio Inconfidência BH
+https://ssl.zoeweb.net/proxy/inconfidencia?mp=/inconfidencia/;stream.mp3
+##https://ssl.zoeweb.net/proxy/inconfidencia?mp=/stream&1718221654855
+
+#EXTINF:0,880 AM Rádio Inconfidência BH
+https://ssl.zoeweb.net/proxy/inconfidencia2?mp=/stream
+
+#EXTINF:0,102.9 FM Rádio CDL BH
+https://9595.brasilstream.com.br/stream?identifica=5287549146056070000&rand=9543152602925850000
+
+#EXTINF:0,103.9 FM Light BH
+https://playerservices.streamtheworld.com/api/livestream-redirect/LIGHTFM_BRAAC.aac
+
+#EXTINF:0,105.1 FM Rádio Antena 1 BH
+https://antenaone.crossradio.com.br/stream/1;
+
+#EXTINF:0,106.1 FM Rádio CBN BH
+https://playerservices.streamtheworld.com/api/livestream-redirect/CBN_BHAAC.aac
+
+#EXTINF:0,106.7 FM Rádio Autêntica Favela BH
+https://s30.maxcast.com.br:8114/live
+
+#EXTINF:0,107.1 FM Rádio América BH
+https://9735.brasilstream.com.br/stream
+
+#EXTINF:0,******* Playlist SP *******
+http://
+
+#EXTINF:0,90.5 FM Rádio CBN SP
+https://playerservices.streamtheworld.com/api/livestream-redirect/CBN_SPAAC.aac
+
+#EXTINF:0,94.7 FM Rádio Antena 1 SP
+http://107.191.33.98:8232/stream/1/;
+
+#EXTINF:0,96.9 FM Rádio BandNews SP
+https://playerservices.streamtheworld.com/api/livestream-redirect/BANDNEWSFM_SPAAC.aac
+
+#EXTINF:0,100.1 FM Rádio Transamérica SP
+https://playerservices.streamtheworld.com/api/livestream-redirect/RT_SPAAC.aac
+
+#EXTINF:0,******* Playlist RJ *******
+http://
+
+#EXTINF:0,92.5 FM Rádio CBN RJ
+https://playerservices.streamtheworld.com/api/livestream-redirect/CBN_RJAAC.aac
+
+#EXTINF:0,******* Playlist SC *******
+http://
+
+#EXTINF:0,99.1 FM Rádio Studio SC
+http://paineldj4.com.br:10234/stream
+
+#EXTINF:0,******* Playlist GO *******
+http://
+
+#EXTINF:0,Rádio Studio Souto MPB Musicalidade Goiânia GO
+http://centova5.transmissaodigital.com:8090/stream
+
+#EXTINF:0,Rádio Studio Souto Love Songs Goiânia GO
+http://centova5.transmissaodigital.com:8074/stream
+
+#EXTINF:0,Radio Studio Souto Saudade 80s Goiânia GO
+http://centova5.transmissaodigital.com:8130/stream
+
+#EXTINF:0,Radio Studio Souto Rock Classico Goiânia GO
+http://centova5.transmissaodigital.com:8122/stream
+
+#EXTINF:0,Radio Studio Souto Discoteca 70s Goiânia GO
+http://centova5.transmissaodigital.com:8042/stream
+
+#EXTINF:0,Radio Studio Souto Raizes Goiânia GO
+http://centova5.transmissaodigital.com:8110/stream
+
+#EXTINF:0,Radio Studio Souto Country Goiânia GO
+http://centova5.transmissaodigital.com:8038/stream
+
+#EXTINF:0,Podcast do Café Brasil
+https://26173.mc.tritondigital.com/OMNY_CAFBRASIL1_PODCAST_P/media-session/5c53ddf9-6a2d-4a1f-87ad-0e9aea25f943/d/clips/f7f86f6a-2fbd-4ac7-ab53-b01900e5d187/0b349484-4d83-43ce-8659-b03d0017a89a/929983f9-70cb-4f50-894a-b0b9012a1e50/audio/direct/t1700017292/Cafe_Brasil_900_-_How_Deep_Is_Your_Love.mp3?t=1700017292&in_playlist=a1ad452c-1e44-42fe-9590-b03d0017a8b2&utm_source=Podcast
+#######################################################
+
+
+
+
