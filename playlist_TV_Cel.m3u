@@ -59,7 +59,7 @@ https://stmv1.srvif.com/nativatv/nativatv/playlist.m3u8
 #EXTINF:0 ,TV Cultura SP
 https://5b33b873179a2.streamlock.net:1443/live/livestream/playlist.m3u8
 
-#EXTINF:0 type="playlist" tvg-name="" tvg-logo="https://cdn.awsli.com.br/598/598184/logo/d7b67f908f.jpg" audio-track="por,eng" group-title="Minha Lista" ,Diversas Radias
+#EXTINF:0 ,Diversas Rádias
 https://github.com/Wlba/SmartTV/raw/refs/heads/master/Playlist_Radio%2020220415.m3u
 
 #EXTINF:0 ,Rádio CBN (SP)
@@ -327,438 +327,57 @@ http://flash1.crossdigital.com.br:1935/2063/2063/live.m3u8
 #EXTINF:0 ,TVT (SP)
 http://gbbrlive2.sambatech.com.br:80/liveevent/tvtabr_56fc38e9793ca9941f5203fab6e01263/livestream3/live.m3u8
 
-#EXTINF:0 , Top TV
+#EXTINF:0 ,Top TV
 http://sateg.cdnseguro.com/toptv/toptv/playlist.m3u8
 
-#EXTINF:0 channelId="-1" tvg-logo="" audio-track="por,eng" group-title="Minha Lista" ,Canal de Tupã SP
+#EXTINF:0 ,Canal de Tupã (SP)
 http://video2.sinoinformatica.com.br:1935/cmtupa-live/sessaoaovivo/livestream.m3u8
 
-#EXTINF:0 channelId="-1" tvg-logo="" audio-track="por,eng" group-title="Minha Lista" ,TV Interlagos SP
+#EXTINF:0 ,TV Interlagos (SP)
 http://198.20.107.218:1935/tvinterlagos/tvinterlagos/live.m3u8
 
-#EXTINF:0 channelId="-1" tvg-logo="" audio-track="por,eng" group-title="Minha Lista" ,TV Louvar SP
-http://173.236.10.10:1935/renascer/renascer/live.m3u8
-
-#EXTINF:0 channelId="-1" tvg-logo="" audio-track="por,eng" group-title="Minha Lista" ,TV O Povo CE
+#EXTINF:0 ,TV O Povo (CE)
 http://srv3.zoeweb.tv:1935/z01-live/stream/livestream.m3u8
 
-#EXTINF:0 channelId="-1" tvg-logo="" audio-track="por,eng" group-title="Minha Lista" ,Eco TV
+#EXTINF:0 ,Eco TV
 https://5b7f3c45ab7c2.streamlock.net/8010/8010/chunklist_w247982945.m3u8
-## http://mediacontrol.jargon.com.ar:1935/elecotv/elecotv/playlist.m3u8
-#EXTINF:0 channelId="-1" tvg-logo="" audio-track="por,eng" group-title="Minha Lista" ,TV WEB Paraná
+
+#EXTINF:0 ,TV WEB Paraná
 https://59f1cbe63db89.streamlock.net:1443/tvwebparana/_definst_/tvwebparana/playlist.m3u8
 
-#EXTINF:0 channelId="-1" audio-track="por,eng" group-title="Minha Lista" ,TV Brasil Central GO
+#EXTINF:0 ,TV Brasil Central (GO)
 http://rsync.com.br:1935/rsync00026/rsync.sdp/live.m3u8
 
-#EXTINF:0 channelId="-1" tvg-logo="" audio-track="por,eng" group-title="Minha Lista" ,Rádio Central do Brasil
+#EXTINF:0 ,Rádio Central do Brasil
 http://rsync.com.br:1935/rsync00025/rsync.sdp/live.m3u8
 
-#EXTINF:0 channelId="-1" tvg-logo="" audio-track="por,eng" group-title="Minha Lista" ,TV Natal - RN
+#EXTINF:0 ,TV Natal (RN)
 https://stmv6.srvstm.com/antonioflavio9466/antonioflavio9466/playlist.m3u8
 
-#EXTINF:0 channelId="-1" tvg-logo="" audio-track="por,eng" group-title="Minha Lista" ,Creative TV
+#EXTINF:0 ,Creative TV
 http://streaming63.sitehosting.com.br:1935/jandy/_definst_/jandy/chunklist_w185946146.m3u8
 
-#EXTINF:0 channelId="-1" tvg-logo="" audio-track="por,eng" group-title="Minha Lista" ,Anime Tv - (Desenhos)
-https://stmv1.srvif.com/animetv/animetv/playlist.m3u8
 ## *********************** CANAIS DE ESPORTES NACIONAIS ******************** 
-#EXTINF:0 tvg-id="SporTV 4K" tvg-name="SporTV 4K" tvg-logo="http://abre.pw/images/canais/sportv-hd.png" group-title="Minha Lista" ,SporTV 4K
-https://live-01.edge-oi-mpi-mg.video.globo.com/j/eyJhbGciOiJSUzUxMiIsImtpZCI6IjEiLCJ0eXAiOiJKV1QifQ.eyJjb3VudHJ5X2NvZGUiOiJCUiIsImRvbWFpbiI6ImxpdmUtMDEuZWRnZS1vaS1tcGktbWcudmlkZW8uZ2xvYm8uY29tIiwiZXhwIjoxNzAxOTkzMzkyLCJpYXQiOjE3MDE5MDY5OTIsImlzcyI6InBsYXliYWNrLWFwaS1wcm9kLWdjcCIsIm93bmVyIjoiNTQwYjY4YWMtYWVlZC00MmJhLWEwNWEtZTY1NzA0YzVlYTc5IiwicGF0aCI6Ii9udS9mKGk9Mikvc3BvMWEvcGxheWxpc3QubTN1OCJ9.kWargYVMkLDhfIQj5r6zkqHs74UBXOT5N9-dylYecHACyWoqYBbcIJDyACXxpH6qKrd9gOt_XS0gJ6fUXIjA-whdDiiGgAxSP3wmC-o57pDW3AvJ3lFI_cqVclp0B89VmuzgsP75XMXQJfUSaYHkvWHtYEtymU9_6Ipx8V4fftQFy1TMufb74RaneQBvrW2kEKQiXcxd5f_IN6T_RLudq4C-40daDzf82xpf6LJDpbpRrkPB3yO9kR9ft4dKmNW99WNXZJPgBg0NPzaTCKfhGvrUiw5C6j4Qz5o0jKAbAqCz2oEMF9i8q48Q4TGQo_Dcr3DDIyQYTLovSiljMI6Q5Q/nu/f(i=2)/spo1a/playlist.m3u8
-
-#EXTINF:0 tvg-id="SporTV" tvg-name="SporTV HD" tvg-logo="http://abre.pw/images/canais/sportv-hd.png" group-title="Minha Lista" ,SporTV HD
-https://live-01.edge-oi-mpi-mg.video.globo.com/j/eyJhbGciOiJSUzUxMiIsImtpZCI6IjEiLCJ0eXAiOiJKV1QifQ.eyJjb3VudHJ5X2NvZGUiOiJCUiIsImRvbWFpbiI6ImxpdmUtMDEuZWRnZS1vaS1tcGktbWcudmlkZW8uZ2xvYm8uY29tIiwiZXhwIjoxNzA2NTU0NDk3LCJpYXQiOjE3MDY0NjgwOTcsImlzcyI6InBsYXliYWNrLWFwaS1wcm9kLWdjcCIsIm93bmVyIjoiNTQwYjY4YWMtYWVlZC00MmJhLWEwNWEtZTY1NzA0YzVlYTc5IiwicGF0aCI6Ii9udS9mKGk9Mikvc3BvMTI0aGEvcGxheWxpc3QubTN1OCJ9.hokMOd5B7fgbGomosRu29wkQJxWRqSquKuY3w1Ov-gVg3HwHi6WWhA7l3ihJF1UfIIFZ6G2zORiome3iYlE-EoCMQmJsoQ_4yNss-Hnoj0dONxaZ0C-zU-oM-Oz-uGfm2yyC8ZBBICAEfoaiuFSPUaTIfEBTSPHAzJq8G9XKxiDvhJ5TSWCUhgoqrF2nXo6YzYWUsQPk77F80zrmcXTK1Z4D4Kl6yWb1sQSCsDP3k8GzIEglPnY5Mtf1LLfgYkfQuTqwwZr5m1mAMnmZ3k-IgnTKSDRgpGwPUi-UHEGWRQKmzmdIf0O3tiNzwf60IcBOpjq_3thHKvkLv6olsy2iJw/nu/f(i=2)/spo124ha/playlist.m3u8
-
-#EXTINF:0 tvg-id="SporTV 2" tvg-name="SporTV 2 HD" tvg-logo="http://abre.pw/images/canais/sportv-2-hd.png" group-title="Minha Lista",SporTV 2 HD .mtv
-https://live-02.edge-oi-mpi-mg.video.globo.com/j/eyJhbGciOiJSUzUxMiIsImtpZCI6IjEiLCJ0eXAiOiJKV1QifQ.eyJjb3VudHJ5X2NvZGUiOiJCUiIsImRvbWFpbiI6ImxpdmUtMDIuZWRnZS1vaS1tcGktbWcudmlkZW8uZ2xvYm8uY29tIiwiZXhwIjoxNjkxNDIzODkyLCJpYXQiOjE2OTEzMzc0OTIsImlzcyI6InBsYXliYWNrLWFwaS1wcm9kLWdjcCIsIm93bmVyIjoiNTQwYjY4YWMtYWVlZC00MmJhLWEwNWEtZTY1NzA0YzVlYTc5IiwicGF0aCI6Ii9udS9mKGFlcyxiTWluPTIwMDAsaT0yKS9zcG8xMjRoYS9wbGF5bGlzdC5tM3U4In0.DhjuEitf0VlkwSCjyOtC1pQFXQOQiP6ExpqL-8BBcKnkqWSdUrK2UFhR8eQemMuiwCPLoCBY6tGcSyA0cVaAhw19g9hhUOP1iIb00jaNov38FwJTMANSCptKwVnzmP1ruG7YC03r83J4Z3Ii6tCCpSwNSJJN4z1_Zj-_P5Lx0gxQztHQCfkNfr91nA-K6qWbswGye52Fs_3M3nzOBNC-_ulNHvS3aAAsLFQldh9EgQCQAXxV6xh2CJ5x3k7pnFgr911Au92QWRpJbRa48p8ppJq1ZUo03vVN1WmYxDqOSLpa-G9T-OjZceUsqqqcgF9lbjP57k_H8bRKdAMtap5kMw/nu/f(aes,bMin=2000,i=2)/spo124ha/playlist.m3u8
-
-#EXTINF:0 tvg-id="SporTV 3" tvg-name="SporTV 3 HD" tvg-logo="http://abre.pw/images/canais/sportv-3-hd.png" group-title="Minha Lista",SporTV 3 HD .mtv
-https://live-02.edge-oi-mpi-mg.video.globo.com/j/eyJhbGciOiJSUzUxMiIsImtpZCI6IjEiLCJ0eXAiOiJKV1QifQ.eyJjb3VudHJ5X2NvZGUiOiJCUiIsImRvbWFpbiI6ImxpdmUtMDIuZWRnZS1vaS1tcGktbWcudmlkZW8uZ2xvYm8uY29tIiwiZXhwIjoxNjkxNDIzODkyLCJpYXQiOjE2OTEzMzc0OTIsImlzcyI6InBsYXliYWNrLWFwaS1wcm9kLWdjcCIsIm93bmVyIjoiNTQwYjY4YWMtYWVlZC00MmJhLWEwNWEtZTY1NzA0YzVlYTc5IiwicGF0aCI6Ii9udS9mKGFlcyxiTWluPTIwMDAsaT0yKS9zcG8xMjRoYS9wbGF5bGlzdC5tM3U4In0.DhjuEitf0VlkwSCjyOtC1pQFXQOQiP6ExpqL-8BBcKnkqWSdUrK2UFhR8eQemMuiwCPLoCBY6tGcSyA0cVaAhw19g9hhUOP1iIb00jaNov38FwJTMANSCptKwVnzmP1ruG7YC03r83J4Z3Ii6tCCpSwNSJJN4z1_Zj-_P5Lx0gxQztHQCfkNfr91nA-K6qWbswGye52Fs_3M3nzOBNC-_ulNHvS3aAAsLFQldh9EgQCQAXxV6xh2CJ5x3k7pnFgr911Au92QWRpJbRa48p8ppJq1ZUo03vVN1WmYxDqOSLpa-G9T-OjZceUsqqqcgF9lbjP57k_H8bRKdAMtap5kMw/nu/f(aes,bMin=2000,i=2)/spo124ha/playlist.m3u8
-
-#EXTINF:0 tvg-id="GE Fast" tvg-name="GE Fast" tvg-logo="" group-title="Minha Lista" ,GE Fast HD
-https://live-01.edge-oi-mpi-mg.video.globo.com/j/eyJhbGciOiJSUzUxMiIsImtpZCI6IjEiLCJ0eXAiOiJKV1QifQ.eyJjb3VudHJ5X2NvZGUiOiJCUiIsImRvbWFpbiI6ImxpdmUtMDEuZWRnZS1vaS1tcGktbWcudmlkZW8uZ2xvYm8uY29tIiwiZXhwIjoxNjg3OTExNjAxLCJpYXQiOjE2ODc4MjUyMDEsImlzcyI6InBsYXliYWNrLWFwaS1wcm9kLWdjcCIsIm93bmVyIjoiNTQwYjY4YWMtYWVlZC00MmJhLWEwNWEtZTY1NzA0YzVlYTc5IiwicGF0aCI6Ii9udS9mKGJNaW49MjAwMCxpPTIpL3Nwb2Zhc3QyNGhhL3BsYXlsaXN0Lm0zdTgifQ.T38hAfcC87TfK2-Pxk5mvP656kjaXWRsS37ZFJmz74cxgyFp8d4N_3w2M1C8NfM_fYU3nDv_rDvv6UhtE7V6v9C-RBGda7PMg_bqmlSWikM0WrYeG-eyUeX298amBlO0Tfoh6FXPX0qHoDtgaA7tVapP1xoQSOVgtodbE7qIHdklSJnpprCHhNERtUzuQx5tDURD2SGSgIFYXwjOORlUnD9iUcxCznkhkay49cmP0v6maqg5wqeqD3h5hPIE6yBbx5myPuXUir7VPye4ddfsPJbuiqkd9yuQroXizXlKi83JotXBOmSDbnzL_HRevjcNIQLoysqeM2HvHlwOGAPFBw/nu/f(bMin=2000,i=2)/spofast24ha/playlist.m3u8
-
-#EXTINF:0 tvg-name ="Real Madrid TV" tvg-logo="" audio-track="por,eng" group-title="Minha Lista" ,Real Madrid TV Espanha
+#EXTINF:0 ,Real Madrid TV (Espanha)
 https://linear-491.frequency.stream/dist/vix/491/hls/master/playlist.m3u8
 
-#EXTINF:0 channelId="-1" tvg-logo="https://goo.gl/3wfj2r" audio-track="por,eng" group-title="Minha Lista" ,TV All Sports
+#EXTINF:0 ,TV All Sports
 https://5cf4a2c2512a2.streamlock.net/dgrau/dgrau/playlist.m3u8
 
-#EXTINF:0 tvg-id="Premiere 1" tvg-name="Premiere 1 HD" tvg-logo="http://abre.pw/images/canais//premiere-hd.png" group-title="Minha Lista" ,Premiere 1 HD
-https://live-01.edge-oi-mpi-mg.video.globo.com/j/eyJhbGciOiJSUzUxMiIsImtpZCI6IjEiLCJ0eXAiOiJKV1QifQ.eyJjb3VudHJ5X2NvZGUiOiJCUiIsImRvbWFpbiI6ImxpdmUtMDEuZWRnZS1vaS1tcGktbWcudmlkZW8uZ2xvYm8uY29tIiwiZXhwIjoxNzE3MTEwNDA5LCJpYXQiOjE3MTcwMjQwMDksImlzcyI6InBsYXliYWNrLWFwaS1wcm9kLWdjcCIsIm93bmVyIjoiNTQwYjY4YWMtYWVlZC00MmJhLWEwNWEtZTY1NzA0YzVlYTc5IiwicGF0aCI6Ii9udS9mKGk9MikvcGZjMS9wbGF5bGlzdC5tM3U4In0.n3g9YUSdfktV24GQgbO-lgu5cs9tYIi39TeHFGVUC5AsxuL5yDtKS1i9gWTiGqKdZGBKpZJXneSGtpXPjDc2RZZVKCC1FOTac6kEBi-gghcVp2YSfQOmB9QenZXKLEu0Rb_ICW62yGDedF2mQaQklVMnJ_LeBwHf7spOZdjxRpgJ1SVEk5gioRfs8udhDlezMMEqmhp_ejfG0ZVlf5lFhZCAAv76VXjIFkoFsuaPskozGb8yyzDR1snvxbqnuSea0Q_gHD2xWCR5ISCueCjaT02LngaTPoZ2nN_qC7bfc8ffRRYGSG9GVW21Vwk8NscvxttbE581JPxbkXKBf03qww/nu/f(i=2)/pfc1/playlist.m3u8
-
-#EXTINF:0 tvg-id="Premiere 2" tvg-name="Premiere 2 HD" tvg-logo="http://abre.pw/images/canais//premiere-hd.png" group-title="Minha Lista" ,Premiere 2 HD
-https://live-01.edge-oi-mpi-mg.video.globo.com/j/eyJhbGciOiJSUzUxMiIsImtpZCI6IjEiLCJ0eXAiOiJKV1QifQ.eyJjb3VudHJ5X2NvZGUiOiJCUiIsImRvbWFpbiI6ImxpdmUtMDEuZWRnZS1vaS1tcGktbWcudmlkZW8uZ2xvYm8uY29tIiwiZXhwIjoxNzA2NTU0NTk1LCJpYXQiOjE3MDY0NjgxOTUsImlzcyI6InBsYXliYWNrLWFwaS1wcm9kLWdjcCIsIm93bmVyIjoiNTQwYjY4YWMtYWVlZC00MmJhLWEwNWEtZTY1NzA0YzVlYTc5IiwicGF0aCI6Ii9udS9mKGk9MikvcGZjMi9wbGF5bGlzdC5tM3U4In0.sUHvV4OlVDMZzeHZRGubP1tG41EAlvxXIgKWlPC_bVH_GbEzZ4PDVW6jPB7RdjVaLzaSfz6XgaKkPyQo0Wkq9e_RnaTQbGROdWOgiiq05Rnw8JOQILBOmcVIFdH2sEVrKd8MQVMBVhm2KM26S_mJOUc5tGgbmXdqrfoMT52FNxINd3he7wuExEujglAGf0uadn5CWwZ1Pf7V7kCP9SyugKksCGCzHh3nufUsQIr1AA70voBMDb1VdT8QZSQLTYLyiaga1UPbqSsGZgeqNV6aBEKR_mzIt2iwICJX9rcyUEJpfd6nEJMkYTN5bWqlVuEeYPM3Tu_eaRL1ag20N9qs7A/nu/f(i=2)/pfc2/playlist.m3u8
-
-#EXTINF:0 tvg-id="Premiere 3" tvg-name="Premiere 3 HD" tvg-logo="http://abre.pw/images/canais//premiere-hd.png" group-title="Minha Lista" ,Premiere 3 HD
-https://live-01.edge-oi-mpi-mg.video.globo.com/j/eyJhbGciOiJSUzUxMiIsImtpZCI6IjEiLCJ0eXAiOiJKV1QifQ.eyJjb3VudHJ5X2NvZGUiOiJCUiIsImRvbWFpbiI6ImxpdmUtMDEuZWRnZS1vaS1tcGktbWcudmlkZW8uZ2xvYm8uY29tIiwiZXhwIjoxNzAxOTkzNjMyLCJpYXQiOjE3MDE5MDcyMzIsImlzcyI6InBsYXliYWNrLWFwaS1wcm9kLWdjcCIsIm93bmVyIjoiNTQwYjY4YWMtYWVlZC00MmJhLWEwNWEtZTY1NzA0YzVlYTc5IiwicGF0aCI6Ii9udS9mKGk9MikvcGZjMy9wbGF5bGlzdC5tM3U4In0.dQ4QK2OEPRTBZIelS6_4qgLDaEP4Kb3kyrMNnXcUxo8gzSTSsgolnOrK7UY-TOhBY6gboEbsTt3tJeAn6E4IUsDVaB06fT1413ngUVVwRI5q0GXlSLOa0QAzIZ5QYfSzYL8UIM2xHzLQyovXCFixtUcCHoN-Uo5Csv1PeNYoOpykEWgGohrF0L4DSfGOZ5FzBP6SHGCA605f3LGZFY0R6J1DrzmRxp_ooO4_gMk8Pn21hZI8JXvxO1ivobTYxGUObDk3q24qv7WVT4RjmykbHHdLScL4kNPnUL71Wwha8P5AbOaruWJkwB3QQoIrC_NnYPbNET2YftcJHHsOeenGcg/nu/f(i=2)/pfc3/playlist.m3u8
-
-#EXTINF:0 tvg-id="Premiere 4" tvg-name="Premiere 4 HD" tvg-logo="http://abre.pw/images/canais//premiere-hd.png" group-title="Minha Lista" ,Premiere 4 HD
-https://live-01.edge-oi-mpi-mg.video.globo.com/j/eyJhbGciOiJSUzUxMiIsImtpZCI6IjEiLCJ0eXAiOiJKV1QifQ.eyJjb3VudHJ5X2NvZGUiOiJCUiIsImRvbWFpbiI6ImxpdmUtMDEuZWRnZS1vaS1tcGktbWcudmlkZW8uZ2xvYm8uY29tIiwiZXhwIjoxNzAxOTkzNjY4LCJpYXQiOjE3MDE5MDcyNjgsImlzcyI6InBsYXliYWNrLWFwaS1wcm9kLWdjcCIsIm93bmVyIjoiNTQwYjY4YWMtYWVlZC00MmJhLWEwNWEtZTY1NzA0YzVlYTc5IiwicGF0aCI6Ii9udS9mKGk9MikvcGZjNC9wbGF5bGlzdC5tM3U4In0.ESLTFH6z5TUkue_B0VAEDfXaTIka_8rbGROQpQJRAjwfUflJiXbPNjb_otFoPhQHT5PZCFJnPACaUPNioaoHaFgCCRIFEWkRezGp6OuCV4tj-wcIStsYCV2zgF9L_gtTp2rlAFO6U9nqeQ_SmufbrjIP8nKeOlzY8TUOLVrRUqkKHNKA39vCtjaoOMQP4Xb6Rav8OzfH4iL-GMpcNSZ4RqPnQSK3Kycqqi_nOaA710ihgGSlPu_Czk357j8yk_yMQQCIQC8LiEUI2Qoi_8EYdXTvZ_pBb2u3GILT_eJXcG5oPKqxmwlE0U-Ul58VPI9XekDFURWx6hGj8K-sLGNTBw/nu/f(i=2)/pfc4/playlist.m3u8
-
-#EXTINF:0 tvg-id="" tvg-name="Premiere 5 HD" tvg-logo="http://abre.pw/images/canais//premiere-hd.png" group-title="Minha Lista" ,Premiere 5 HD .mtv
-https://live-01.edge-oi-mpi-mg.video.globo.com/j/eyJhbGciOiJSUzUxMiIsImtpZCI6IjEiLCJ0eXAiOiJKV1QifQ.eyJjb3VudHJ5X2NvZGUiOiJCUiIsImRvbWFpbiI6ImxpdmUtMDEuZWRnZS1vaS1tcGktbWcudmlkZW8uZ2xvYm8uY29tIiwiZXhwIjoxNzAxOTkzNzA4LCJpYXQiOjE3MDE5MDczMDgsImlzcyI6InBsYXliYWNrLWFwaS1wcm9kLWdjcCIsIm93bmVyIjoiNTQwYjY4YWMtYWVlZC00MmJhLWEwNWEtZTY1NzA0YzVlYTc5IiwicGF0aCI6Ii9udS9mKGk9MikvcGZjNS9wbGF5bGlzdC5tM3U4In0.cgvYlVF0t42NS6ERW6qc3e7mnQqsNt0deMR2V4IMr0e3B5qc4aYPof6oSw73stcYiBzlYYNm6rbI6gR3LByncYTEWM-2_LjLiNqxhNqhwDvOBD80FwPS5gaJlBTGFuqr16Va88MXdg2iEuCtGnfWL9Eu41HOrknta-aS7r9CEGwr-AUfUisJT0rmGQz70xjVA4Tge8Qc4FwMM_9Wvp4vkN5kBdwXQzocF6QEhQyV3xzFl_HWhzBemtC4RMvzk6E6mitNT9X-1eGXt-SRLwBKfKKfoI40cTF-eeEWZsRsOvufKD_ytZ9AkSn6R0Lk3VlYa82ohb0UakMIzX6Z06mRtg/nu/f(i=2)/pfc5/playlist.m3u8
-
-#EXTINF:0 tvg-id="" tvg-name="Premiere 6 HD" tvg-logo="http://abre.pw/images/canais/premiere-hd.png" group-title="Minha Lista" ,Premiere 6 HD .mtv
-https://live-02.edge-oi-mpi-mg.video.globo.com/j/eyJhbGciOiJSUzUxMiIsImtpZCI6IjEiLCJ0eXAiOiJKV1QifQ.eyJjb3VudHJ5X2NvZGUiOiJCUiIsImRvbWFpbiI6ImxpdmUtMDIuZWRnZS1vaS1tcGktbWcudmlkZW8uZ2xvYm8uY29tIiwiZXhwIjoxNzAxOTkzNzY4LCJpYXQiOjE3MDE5MDczNjgsImlzcyI6InBsYXliYWNrLWFwaS1wcm9kLWdjcCIsIm93bmVyIjoiNTQwYjY4YWMtYWVlZC00MmJhLWEwNWEtZTY1NzA0YzVlYTc5IiwicGF0aCI6Ii9udS9mKGk9MikvcGZjOC9wbGF5bGlzdC5tM3U4In0.DEdqMgYbRm9LdBuEakSU5qkmNx6a_vheRtpKgSd8lEFOLUzrH1qO-6LeEH1ec1PU7gOL-gW3EPjzVxFxgGLi0iJ3FDrzkdyyWRt-uruw44bKxKTHNweK8sBwAc_cPfqrHT-5ts6dtrrwzdj7kf8B_WuTKw7a8Gp4xtKYgMLw9hNge3UJg7yC1NqkYWFSXKVpwC4jyWNWWrGWpHxaoz8Ru2LogCGd87v24ocudsNmFUrz_pwSyOQCj0HDY_VE8vMftKVB018VSAAHH8y9ue-S0Fn6AYDKPG1OOP5EQjWktN-rWtcpXTUf_I0v55FOyyYjQPvkz8tjVDJyXywsb9L4fA/nu/f(i=2)/pfc8/playlist.m3u8
-
-#EXTINF:0 tvg-id="" tvg-name="Premiere 7 HD" tvg-logo="http://abre.pw/images/canais/premiere-hd.png" group-title="Minha Lista" ,Premiere Mosaico HD .mtv
-https://live-01.edge-oi-mpi-mg.video.globo.com/j/eyJhbGciOiJSUzUxMiIsImtpZCI6IjEiLCJ0eXAiOiJKV1QifQ.eyJjb3VudHJ5X2NvZGUiOiJCUiIsImRvbWFpbiI6ImxpdmUtMDEuZWRnZS1vaS1tcGktbWcudmlkZW8uZ2xvYm8uY29tIiwiZXhwIjoxNzAxOTkzODA0LCJpYXQiOjE3MDE5MDc0MDQsImlzcyI6InBsYXliYWNrLWFwaS1wcm9kLWdjcCIsIm93bmVyIjoiNTQwYjY4YWMtYWVlZC00MmJhLWEwNWEtZTY1NzA0YzVlYTc5IiwicGF0aCI6Ii9udS9mKGk9MikvcGZjOS9wbGF5bGlzdC5tM3U4In0.wqtn0Mk2yRAGEjVdslm9oF18EK9FuS9NT-r0D6A5EQYFmiZm8N9YgPZ-A68XUk7sGLiVvq0IcTqUKdfRF8Pt1CI3EszkElouglDxF9qYkW3MfP7FLrPO7U9bjPHwvEiS2L3i1FQ38563tJ9Df9Fpz3XPL2ULcokxmMAFvRRKLZgt5Yswhu1B5OWwKFqBbavHNsTV_F3oZneWmqu0l3L4wSC5uZTQnDwuI9MiSMN6w5afLa3IMahhgYfFrhtKHEXnzUL-OBtFzSzkqx3b0NIsnYt-GxpCzYM70obUxXhjltpgTAl7ULGM_Yhjn0ZKnjqRt1pSlXouZ9gqGUsZj8ymcw/nu/f(i=2)/pfc9/playlist.m3u8
-
-#EXTINF:0 tvg-id="Combate" tvg-name="Combate HD" tvg-logo="http://abre.pw/images/canais/combate-hd.png" group-title="Minha Lista" ,Combate HD .mtv 
-http://link.sv01.pw:80/hfWZyT5BKr/YIQr2nKNTV/172
-## *********************** CANAIS DE ESPORTES INTERNACIONAIS ********************
-#EXTINF:0 tvg-name="" tvg-logo="" audio-track="por,eng" group-title="Minha Lista" ,Euro sport ENG
-http://esioslive6-i.akamaihd.net/hls/live/202874/AL_P_ESP1_INTER_ENG/playlist_1800.m3u8
-
-#EXTINF:0 tvg-name="" tvg-logo="" audio-track="por,eng" group-title="Minha Lista" ,Euro sport FRA
-http://esioslive6-i.akamaihd.net/hls/live/202892/AL_P_ESP1_FR_FRA/playlist.m3u8
-
-#EXTINF:0 tvg-name="" tvg-logo="" audio-track="por,eng" group-title="Minha Lista" ,Bursa SporTV RU
-http://stream.yayindayiz.biz/Bursaspor/bursaspor/hasbahca.m3u8
-
-## *********************** CANAIS NACIONAL DE VARIEDADES ********************
-#EXTINF:0 tvg-id="" tvg-name="GNT HD" tvg-logo="http://abre.pw/images/canais/gnt-hd.png" group-title="Minha Lista" ,GNT HD .mtv
-http://link.sv01.pw:80/hfWZyT5BKr/YIQr2nKNTV/107
-
-#EXTINF:0 tvg-id="Comedy Central" tvg-name="Comedy Central HD" tvg-logo="http://abre.pw/images/canais/comedy-central.png" group-title="Minha Lista" ,Comedy Central HD .mtv 
-http://link.sv01.pw:80/hfWZyT5BKr/YIQr2nKNTV/6407
-
-#EXTINF:0 tvg-id="E! Entertainment Television" tvg-name="E! HD" tvg-logo="http://abre.pw/images/canais/e-hd.png" group-title="Minha Lista" ,E! HD .mtv 
-http://link.sv01.pw:80/hfWZyT5BKr/YIQr2nKNTV/152
-
-#EXTINF:0 tvg-id="A&E" tvg-name="A&E HD" tvg-logo="http://abre.pw/images/canais/ae-hd.png" group-title="Minha Lista" ,A&E HD .mtv 
-http://link.sv01.pw:80/hfWZyT5BKr/YIQr2nKNTV/200
-
-#EXTINF:0 tvg-id="Arte 1" tvg-name="Arte 1" tvg-logo="http://abre.pw/images/canais/arte-1.png" group-title="Minha Lista" ,Arte 1 SD .mtv
-http://link.sv01.pw:80/hfWZyT5BKr/YIQr2nKNTV/5540
-
-#EXTINF:0 tvg-id="Curta!" tvg-name="Curta! HD" tvg-logo="http://abre.pw/images/canais/curta-hd.png" group-title="Minha Lista" ,Curta! SD .mtv
-http://link.sv01.pw:80/hfWZyT5BKr/YIQr2nKNTV/5527
-
-#EXTINF:0 tvg-id="TruTV" tvg-name="TruTV HD" tvg-logo="http://abre.pw/images/canais/trutv.png" group-title="Minha Lista" ,TruTV HD .mtv 
-http://link.sv01.pw:80/hfWZyT5BKr/YIQr2nKNTV/7642
-
-#EXTINF:0 tvg-id="FOOD NETWORK" tvg-name="Food Network HD" tvg-logo="http://abre.pw/images/canais/food-network.png" group-title="Minha Lista" ,Food Network HD .mtv 
-http://link.sv01.pw:80/hfWZyT5BKr/YIQr2nKNTV/142
-## *********************** CANAIS NACIONAL DE FILMES ********************
-#EXTINF:0 tvg-id="Telecine Premium" tvg-name="Telecine Premium HD" tvg-logo="http://abre.pw/images/canais/telecine-premium.png" group-title="Minha Lista" ,Telecine Premium HD .mtv
-http://link.sv01.pw:80/hfWZyT5BKr/YIQr2nKNTV/21
-
-#EXTINF:0 tvg-id="Telecine Action" tvg-name="Telecine Action HD" tvg-logo="http://abre.pw/images/canais/telecine-action.png" group-title="Minha Lista" ,Telecine Action HD .mtv
-http://link.sv01.pw:80/hfWZyT5BKr/YIQr2nKNTV/29
-
-#EXTINF:0 tvg-id="Telecine Touch" tvg-name="Telecine Touch HD" tvg-logo="http://abre.pw/images/canais/telecine-touch-hd.png" group-title="Minha Lista" ,Telecine Touch HD .mtv
-http://link.sv01.pw:80/hfWZyT5BKr/YIQr2nKNTV/19
-
-#EXTINF:0 tvg-id="Telecine Fun" tvg-name="Telecine Fun HD" tvg-logo="http://abre.pw/images/canais/telecine-fun-hd.png" group-title="Minha Lista" ,Telecine Fun HD .mtv
-http://link.sv01.pw:80/hfWZyT5BKr/YIQr2nKNTV/25
-
-#EXTINF:0 tvg-id="Telecine Pipoca" tvg-name="Telecine Pipoca HD" tvg-logo="http://abre.pw/images/canais/telecine-pipoca-hd.png" group-title="Minha Lista" ,Telecine Pipoca HD .mtv
-http://link.sv01.pw:80/hfWZyT5BKr/YIQr2nKNTV/23
-
-#EXTINF:0 tvg-id="Telecine Cult" tvg-name="Telecine Cult HD" tvg-logo="http://abre.pw/images/canais/telecine-cult-hd.png" group-title="Minha Lista" ,Telecine Cult HD .mtv 
-http://link.sv01.pw:80/hfWZyT5BKr/YIQr2nKNTV/27
-
-#EXTINF:0 tvg-id="HBO" tvg-name="HBO HD" tvg-logo="http://abre.pw/images/canais/hbo-hd.png" group-title="Minha Lista" ,HBO HD .mtv
-http://link.sv01.pw:80/hfWZyT5BKr/YIQr2nKNTV/100
-
-#EXTINF:0 tvg-id="HBO 2" tvg-name="HBO 2 HD" tvg-logo="http://abre.pw/images/canais/hbo-2-hd.png" group-title="Minha Lista" ,HBO 2 HD .mtv
-http://link.sv01.pw:80/hfWZyT5BKr/YIQr2nKNTV/103
-
-#EXTINF:0 tvg-id="HBO Plus" tvg-name="HBO Plus HD" tvg-logo="http://abre.pw/images/canais/hbo-plus-hd.png" group-title="Minha Lista" ,HBO Plus HD .mtv
-http://link.sv01.pw:80/hfWZyT5BKr/YIQr2nKNTV/97
-
-#EXTINF:0 tvg-id="HBO Signature" tvg-name="HBO Signature HD" tvg-logo="http://abre.pw/images/canais/hbo-signature-hd.png" group-title="Minha Lista" ,HBO Signature HD .mtv
-http://link.sv01.pw:80/hfWZyT5BKr/YIQr2nKNTV/94
-
-#EXTINF:0 tvg-id="HBO Family" tvg-name="HBO Family HD" tvg-logo="http://abre.pw/images/canais/hbo-family-hd.png" group-title="Minha Lista" ,HBO Family HD .mtv
-http://link.sv01.pw:80/hfWZyT5BKr/YIQr2nKNTV/101
-
-#EXTINF:0 tvg-id="Fox" tvg-name="Fox HD" tvg-logo="http://abre.pw/images/canais/fox-hd.png" group-title="Minha Lista" ,Fox HD .mtv
-http://link.sv01.pw:80/hfWZyT5BKr/YIQr2nKNTV/139
-
-#EXTINF:0 tvg-id="" tvg-name="Fox Premium 1 HD" tvg-logo="http://abre.pw/images/canais/fox-premium-1-hd.png" group-title="Minha Lista" ,Fox Premium 1 HD .mtv
-http://link.sv01.pw:80/hfWZyT5BKr/YIQr2nKNTV/137
-
-#EXTINF:0 tvg-id="" tvg-name="Fox Premium 2 HD" tvg-logo="http://abre.pw/images/canais/fox-premium-2-hd.png" group-title="Minha Lista" ,Fox Premium 2 HD .mtv
-http://link.sv01.pw:80/hfWZyT5BKr/YIQr2nKNTV/136
-
-#EXTINF:0 tvg-id="Fox Life" tvg-name="Fox Life HD" tvg-logo="http://abre.pw/images/canais/fox-life-hd.png" group-title="Minha Lista" ,Fox Life HD .mtv
-http://link.sv01.pw:80/hfWZyT5BKr/YIQr2nKNTV/138
-
-#EXTINF:0 tvg-id="Megapix" tvg-name="Megapix HD" tvg-logo="http://abre.pw/images/canais/megapix-hd.png" group-title="Minha Lista" ,Megapix HD .mtv
-http://link.sv01.pw:80/hfWZyT5BKr/YIQr2nKNTV/81
-
-#EXTINF:0 tvg-id="AMC" tvg-name="AMC HD" tvg-logo="http://abre.pw/images/canais/amc-hd.png" group-title="Minha Lista" ,AMC HD .mtv
-http://link.sv01.pw:80/hfWZyT5BKr/YIQr2nKNTV/6088
-
-#EXTINF:0 tvg-id="Universal" tvg-name="Universal Channel HD" tvg-logo="http://abre.pw/images/canais/universal-channel-hd.png" group-title="Minha Lista" ,Universal Channel HD .mtv
-http://link.sv01.pw:80/hfWZyT5BKr/YIQr2nKNTV/5
-
-#EXTINF:0 tvg-id="TBS" tvg-name="TBS HD" tvg-logo="http://abre.pw/images/canais/tbs.png" group-title="Minha Lista" ,TBS HD .mtv
-http://link.sv01.pw:80/hfWZyT5BKr/YIQr2nKNTV/10665
-
-#EXTINF:0 tvg-id="Studio Universal" tvg-name="Studio Universal HD" tvg-logo="http://abre.pw/images/canais/studio-universal-hd.png" group-title="Minha Lista" ,Studio Universal HD .mtv
-http://link.sv01.pw:80/hfWZyT5BKr/YIQr2nKNTV/34
-
-#EXTINF:0 tvg-id="Cinemax" tvg-name="Cinemax HD" tvg-logo="http://abre.pw/images/canais/cinemax-hd.png" group-title="Minha Lista" ,Cinemax HD .mtv
-http://link.sv01.pw:80/hfWZyT5BKr/YIQr2nKNTV/177
-
-#EXTINF:0 tvg-id="TCM" tvg-name="TCM HD" tvg-logo="" group-title="Minha Lista" ,TCM HD .mtv
-http://link.sv01.pw:80/hfWZyT5BKr/YIQr2nKNTV/16131
-
-#EXTINF:0 tvg-id="Warner Channel" tvg-name="Warner Channel HD" tvg-logo="http://abre.pw/images/canais/warner-channel-hd.png" group-title="Minha Lista" ,Warner Channel HD .mtv
-http://link.sv01.pw:80/hfWZyT5BKr/YIQr2nKNTV/1
-
-#EXTINF:0 tvg-id="Sony" tvg-name="Canal Sony HD" tvg-logo="http://abre.pw/images/canais/canal-sony-hd.png" group-title="Minha Lista" ,Canal Sony HD .mtv
-http://link.sv01.pw:80/hfWZyT5BKr/YIQr2nKNTV/182
-
-#EXTINF:0 tvg-id="SPACE" tvg-name="Space HD" tvg-logo="http://abre.pw/images/canais/space-hd.png" group-title="Minha Lista" ,Space HD .mtv
-http://link.sv01.pw:80/hfWZyT5BKr/YIQr2nKNTV/42
-
-#EXTINF:0 tvg-id="FX" tvg-name="FX HD" tvg-logo="http://abre.pw/images/canais/fx-hd.png" group-title="Minha Lista" ,FX HD .mtv
-http://link.sv01.pw:80/hfWZyT5BKr/YIQr2nKNTV/129
-
-#EXTINF:0 tvg-id="AXN" tvg-name="AXN HD" tvg-logo="http://abre.pw/images/canais/axn-hd.png" group-title="Minha Lista" ,AXN HD .mtv
-http://link.sv01.pw:80/hfWZyT5BKr/YIQr2nKNTV/196
-
-#EXTINF:0 tvg-id="Max" tvg-name="Max HD" tvg-logo="http://abre.pw/images/canais/max-hd.png" group-title="Minha Lista" ,Max HD .mtv
-http://link.sv01.pw:80/hfWZyT5BKr/YIQr2nKNTV/88
-
-#EXTINF:0 tvg-id="Maxup" tvg-name="Max Up HD" tvg-logo="http://abre.pw/images/canais/max-up-hd.png" group-title="Minha Lista" ,Max Up HD .mtv
-http://link.sv01.pw:80/hfWZyT5BKr/YIQr2nKNTV/83
-
-#EXTINF:0 tvg-id="Max Prime" tvg-name="Max Prime HD" tvg-logo="http://abre.pw/images/canais/max-prime-hd.png" group-title="Minha Lista" ,Max Prime HD .mtv
-http://link.sv01.pw:80/hfWZyT5BKr/YIQr2nKNTV/85
-
-#EXTINF:0 tvg-id="TNT" tvg-name="TNT HD" tvg-logo="http://abre.pw/images/canais/tnt-hd.png" group-title="Minha Lista",TNT HD .mtv
-http://link.sv01.pw:80/hfWZyT5BKr/YIQr2nKNTV/15
-
-#EXTINF:0 tvg-id="TNT s" tvg-name="TNT Series HD" tvg-logo="http://abre.pw/images/canais/tnt-series-hd.png" group-title="Minha Lista",TNT Series HD .mtv
-http://link.sv01.pw:80/hfWZyT5BKr/YIQr2nKNTV/13
-
-#EXTINF:0 tvg-id="" tvg-name="TLC HD" tvg-logo="http://abre.pw/images/canais/tlc-hd.png" group-title="Minha Lista",TLC HD .mtv
-http://link.sv01.pw:80/hfWZyT5BKr/YIQr2nKNTV/17
-
-#EXTINF:0 tvg-id="Lifetime" tvg-name="Lifetime HD" tvg-logo="http://abre.pw/images/canais/lifetime.png" group-title="Minha Lista" ,Lifetime HD .mtv
-http://link.sv01.pw:80/hfWZyT5BKr/YIQr2nKNTV/5534
-
-#EXTINF:0 tvg-id="SyFy" tvg-name="Syfy HD" tvg-logo="http://abre.pw/images/canais/syfy-hd.png" group-title="Minha Lista" ,Syfy HD .mtv
-http://link.sv01.pw:80/hfWZyT5BKr/YIQr2nKNTV/33
-
-#EXTINF:0 tvg-id="+ GLOBOSAT" tvg-name="Globosat HD" tvg-logo="http://abre.pw/images/canais/globosat-hd.png" group-title="Minha Lista" ,Globosat HD .mtv
-http://link.sv01.pw:80/hfWZyT5BKr/YIQr2nKNTV/110
-
-#EXTINF:0 tvg-id="Canal Brasil" tvg-name="Canal Brasil HD" tvg-logo="http://abre.pw/images/canais/canal-brasil-hd.png" group-title="Minha Lista" ,Canal Brasil HD .mtv
-http://link.sv01.pw:80/hfWZyT5BKr/YIQr2nKNTV/185
-
-#EXTINF:0 tvg-id="Paramount Channel" tvg-name="Paramount Channel HD" tvg-logo="http://abre.pw/images/canais/paramount-channel-hd.png" group-title="Minha Lista" ,Paramount Channel HD .mtv
-http://link.sv01.pw:80/hfWZyT5BKr/YIQr2nKNTV/70
-
-#EXTINF:0 tvg-id="Prime Box Brazil" tvg-name="Prime Box Brasil HD" tvg-logo="" group-title="Minha Lista" ,Prime Box Brasil SD .mtv
-http://link.sv01.pw:80/hfWZyT5BKr/YIQr2nKNTV/10782
-
-## *********************** CANAIS NACIONAL DE FILMES INFANTIL ********************
-#EXTINF:0 tvg-id="Boomerang" tvg-name="Boomerang HD" tvg-logo="http://abre.pw/images/canais/boomerang-hd.png" group-title="Minha Lista" ,Boomerang HD .mtv
-http://link.sv01.pw:80/hfWZyT5BKr/YIQr2nKNTV/5538
-
-#EXTINF:0 tvg-id="Cartoon Network" tvg-name="Cartoon Network HD" tvg-logo="http://abre.pw/images/canais/cartoon-network-hd.png" group-title="Minha Lista" ,Cartoon Network HD .mtv
-http://link.sv01.pw:80/hfWZyT5BKr/YIQr2nKNTV/179
-
-#EXTINF:0 tvg-id="Disney Channel" tvg-name="Disney Channel HD" tvg-logo="http://abre.pw/images/canais/disney-channel-hd.png" group-title="Minha Lista" ,Disney Channel HD .mtv
-http://link.sv01.pw:80/hfWZyT5BKr/YIQr2nKNTV/157
-
-#EXTINF:0 tvg-id="Disney XD" tvg-name="Disney XD" tvg-logo="http://abre.pw/images/canais/disney-xd.png" group-title="Minha Lista" ,Disney XD HD .mtv
-http://link.sv01.pw:80/hfWZyT5BKr/YIQr2nKNTV/14948
-
-#EXTINF:0 tvg-id="Disney Junior" tvg-name="Disney Junior HD" tvg-logo="http://abre.pw/images/canais/disney-junior-hd.png" group-title="Minha Lista" ,Disney Junior HD .mtv
-http://link.sv01.pw:80/hfWZyT5BKr/YIQr2nKNTV/5536
-
-#EXTINF:0 tvg-id="Nickelodeon" tvg-name="Nickelodeon HD" tvg-logo="" group-title="Minha Lista" ,Nickelodeon HD .mtv
-http://link.sv01.pw:80/hfWZyT5BKr/YIQr2nKNTV/6402
-
-#EXTINF:0 tvg-id="Nick Jr." tvg-name="Nick Jr HD" tvg-logo="http://abre.pw/images/canais/nick-jr.png" group-title="Minha Lista" ,Nick Jr HD .mtv
-http://link.sv01.pw:80/hfWZyT5BKr/YIQr2nKNTV/6090
-
-#EXTINF:0 tvg-id="Discovery Kids" tvg-name="Discovery Kids HD" tvg-logo="http://abre.pw/images/canais/discovery-kids-hd.png" group-title="Minha Lista" ,Discovery Kids HD .mtv
-http://link.sv01.pw:80/hfWZyT5BKr/YIQr2nKNTV/164
-
-#EXTINF:0 tvg-id="Gloob" tvg-name="Gloob HD" tvg-logo="http://abre.pw/images/canais/gloob-hd.png" group-title="Minha Lista" ,Gloob HD .mtv
-http://link.sv01.pw:80/hfWZyT5BKr/YIQr2nKNTV/108
-
-#EXTINF:0 tvg-id="" tvg-name="Nat Geo Kids HD" tvg-logo="" group-title="Minha Lista" ,Nat Geo Kids HD .mtv
-http://link.sv01.pw:80/hfWZyT5BKr/YIQr2nKNTV/5533
-
-#EXTINF:0 tvg-id="" tvg-name="Gloobinho HD" tvg-logo="" group-title="Minha Lista" ,Gloobinho HD .mtv
-http://link.sv01.pw:80/hfWZyT5BKr/YIQr2nKNTV/7647
-
-#EXTINF:0 tvg-id="Tooncast" tvg-name="Tooncast" tvg-logo="http://abre.pw/images/canais/tooncast.png" group-title="Minha Lista" ,Tooncast .mtv
-http://link.sv01.pw:80/hfWZyT5BKr/YIQr2nKNTV/12
-
-#EXTINF:0 tvg-id="Baby TV" tvg-name="Baby TV" tvg-logo="http://abre.pw/images/canais/baby-tv.png" group-title="Minha Lista" ,Baby TV HD .mtv
-http://link.sv01.pw:80/hfWZyT5BKr/YIQr2nKNTV/14949
-
-#EXTINF:0 tvg-id="" tvg-name="TV RA TIM BUM HD" tvg-logo="" group-title="Minha Lista" ,TV RA TIM BUM HD .mtv
-http://link.sv01.pw:80/hfWZyT5BKr/YIQr2nKNTV/14940
-
-## ********************** CANAIS DE DOCUMENTÁRIOS ************************
-#EXTINF:0 tvg-id="Nat Geo" tvg-name="Nat Geo HD" tvg-logo="http://abre.pw/images/canais/national-geography-hd.png" group-title="Minha Lista" ,Nat Geo HD .mtv
-http://link.sv01.pw:80/hfWZyT5BKr/YIQr2nKNTV/77
-
-#EXTINF:0 tvg-id="Nat Geo Wild" tvg-name="Nat Geo Wild HD" tvg-logo="http://abre.pw/images/canais/natgeo-wild-hd.png" group-title="Minha Lista" ,Nat Geo Wild HD .mtv
-http://link.sv01.pw:80/hfWZyT5BKr/YIQr2nKNTV/76
-
-#EXTINF:0 tvg-id="History Channel" tvg-name="History Channel HD" tvg-logo="http://abre.pw/images/canais/the-history-channel-hd.png" group-title="Minha Lista" ,History Channel HD .mtv
-http://link.sv01.pw:80/hfWZyT5BKr/YIQr2nKNTV/18
-
-#EXTINF:0 tvg-id="H2" tvg-name="H2 HD" tvg-logo="http://abre.pw/images/canais/h2-hd.png" group-title="Minha Lista" ,H2 HD .mtv
-http://link.sv01.pw:80/hfWZyT5BKr/YIQr2nKNTV/106
-
-#EXTINF:0 tvg-id="Animal Planet" tvg-name="Animal Planet HD" tvg-logo="http://abre.pw/images/canais/animal-planet-hd.png" group-title="Minha Lista" ,Animal Planet HD .mtv
-http://link.sv01.pw:80/hfWZyT5BKr/YIQr2nKNTV/198
-
-#EXTINF:0 tvg-id="Discovery Channel" tvg-name="Discovery Channel HD" tvg-logo="http://abre.pw/images/canais/discovery-channel-hd.png" group-title="Minha Lista" ,Discovery Channel HD .mtv
-http://link.sv01.pw:80/hfWZyT5BKr/YIQr2nKNTV/169
-
-#EXTINF:0 tvg-id="Discovery world" tvg-name="Discovery World HD" tvg-logo="http://abre.pw/images/canais/discovery-world-hd.png" group-title="Minha Lista" ,Discovery World HD .mtv
-http://link.sv01.pw:80/hfWZyT5BKr/YIQr2nKNTV/158
-
-#EXTINF:0 tvg-id="Discovery Turbo" tvg-name="Discovery Turbo HD" tvg-logo="http://abre.pw/images/canais/discovery-turbo-hd.png" group-title="Minha Lista" ,Discovery Turbo HD .mtv
-http://link.sv01.pw:80/hfWZyT5BKr/YIQr2nKNTV/159
-
-#EXTINF:0 tvg-id="Discovery Science" tvg-name="Discovery Science HD" tvg-logo="http://abre.pw/images/canais/discovery-science.png" group-title="Minha Lista" ,Discovery Science HD .mtv
-http://link.sv01.pw:80/hfWZyT5BKr/YIQr2nKNTV/6105
-
-#EXTINF:0 tvg-id="Discovery Home & Health" tvg-name="Discovery Home & Health HD" tvg-logo="http://abre.pw/images/canais/discovery-home-&-health-hd.png" group-title="Minha Lista" ,Discovery Home & Health HD .mtv
-http://link.sv01.pw:80/hfWZyT5BKr/YIQr2nKNTV/166
-
-#EXTINF:0 tvg-id="Discovery Civilization" tvg-name="Discovery Civilization HD" tvg-logo="http://abre.pw/images/canais/discovery-civilization.png" group-title="Minha Lista" ,Discovery Civilization HD .mtv
-http://link.sv01.pw:80/hfWZyT5BKr/YIQr2nKNTV/6238
-
-#EXTINF:0 tvg-id="Discovery Theater" tvg-name="Discovery Theater HD" tvg-logo="http://abre.pw/images/canais/discovery-theater-hd.png" group-title="Minha Lista" ,Discovery Theater HD .mtv
-http://link.sv01.pw:80/hfWZyT5BKr/YIQr2nKNTV/6236
-
-#EXTINF:0 tvg-id="Investigação Discovery" tvg-name="Discovery Investigation HD" tvg-logo="http://abre.pw/images/canais/investigation-discovery.png" group-title="Minha Lista" ,Discovery Investigation HD .mtv
-http://link.sv01.pw:80/hfWZyT5BKr/YIQr2nKNTV/5517
-
-#EXTINF:-1 tvg-id="" tvg-name="HGTV HD" tvg-logo="https://www.nicepng.com/png/detail/240-2403845_hgtv-logo.png" group-title="Minha Lista" ,HGTV HD
-http://link.sv01.pw:80/hfWZyT5BKr/YIQr2nKNTV/6238
-
-#EXTINF:0 tvg-name="" tvg-logo="https://goo.gl/YChzsw" audio-track="por,eng" group-title="Minha Lista" ,Livre TV
-http://172.93.110.130:1935/livretv/livretv/playlist.m3u8
-
 ## ****************** NOTICIAS INTERNACIONAIS ************************
-#EXTINF:0 tvg-name="" tvg-logo="https://goo.gl/3hBNmV" audio-track="por,eng" group-title="Minha Lista" ,ABC News USA
-http://abclive.abcnews.com/i/abc_live4@136330/index_1200_av-b.m3u8
-
-#EXTINF:0 tvg-name="" tvg-logo="" audio-track="por,eng" group-title="Minha Lista" ,CBS News - NY USA
-https://cbsn-us.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master_11.m3u8
-
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="" group-title="Minha Lista" ,History Lab - Itália
-https://5f204aff97bee.streamlock.net/RTTRlive/livestream/playlist.m3u8
-
-#EXTINF:0 channelId="1317" tvg-logo="" audio-track="por,eng" group-title="Minha Lista" ,Fox News
-http://cmghlslive-i.akamaihd.net:80/hls/live/224710/WFOX/904k/prog.m3u8
-
-#EXTINF:0 tvg-name="Bloomberg" tvg-logo="" audio-track="por,eng" group-title="Minha Lista" ,Bloomberg
-http://cdn3.videos.bloomberg.com/btv/us/master.m3u8
-## http://live.bltvios.com.edgesuite.net/tv/us/master.m3u8
-#EXTINF:0 tvg-name="" channelId="893" tvg-logo="" audio-track="por,eng" group-title="Minha Lista" ,TV CGTN
-https://live.cgtn.com/1000/prog_index.m3u8
-
-#EXTINF:0 type="stream" channelId="893" tvg-logo="" audio-track="por,eng" group-title="Minha Lista" ,TV CGTN documentary
-https://livedoc.cgtn.com/1000d/prog_index.m3u8
-
-#EXTINF:0 type="stream" channelId="1042" tvg-logo="" audio-track="por,eng" group-title="Minha Lista" ,kazakh tv
+#EXTINF:0 ,kazakh tv
 http://kazakhtven.ultraiptv.com/live_en/playlist1/index.m3u8
 
-#EXTINF:0 tvg-name="" tvg-logo="" audio-track="por,eng" group-title="Minha Lista" ,Teleromagna Sport
-http://livetr.teleromagna.it/sport/live/playlist.m3u8
-
-#EXTINF:0 tvg-name="DW TV" tvg-logo="encurtador.com.br/nAX67" audio-track="por,eng" group-title="Minha Lista" ,DW - Alemanha
+#EXTINF:0 ,DW - Alemanha
 https://dwamdstream106.akamaized.net/hls/live/2017965/dwstream106/stream01/streamPlaylist.m3u8
 
-## *********************** CANAIS RELIGIOSOS ********************
-#EXTINF:0 tvg-name="" tvg-logo="" audio-track="por,eng" group-title="Minha Lista" ,TV Aparecida
-http://69.46.0.170:1935/tvaparecida/tvaparecida.stream/live.m3u8
-
-#EXTINF:0 channelId="-1" tvg-logo="" audio-track="por,eng" group-title="Minha Lista" ,Santuário de Aparecida - Imagem
-http://caikron.com.br:1935/santuario_aparecida/canal1.stream/playlist.m3u8
-
-#EXTINF:0 channelId="-1" tvg-logo="" audio-track="por,eng" group-title="Minha Lista" ,Santuário de Aparecida - Nicho
-http://caikron.com.br:1935/santuario_aparecida/canal2.stream/playlist.m3u8
-
-#EXTINF:0 channelId="-1" tvg-logo="" audio-track="por,eng" group-title="Minha Lista" ,Santuário de Aparecida - Altar Central
-https://youtu.be/wuwnOrzY2aI
-
-#EXTINF:0 channelId="-1" tvg-logo="" audio-track="por,eng" group-title="Minha Lista" ,Santuário de Aparecida - Capela do Santissimo
-http://caikron.com.br:1935/santuario_aparecida/canal3.stream/playlist.m3u8
-
-#EXTINF:0 channelId="-1" tvg-logo="" audio-track="por,eng" group-title="Minha Lista" ,Santuário de Aparecida - Capela São José
-http://caikron.com.br:1935/santuario_aparecida/canal4.stream/playlist.m3u8
-
-#EXTINF:0 channelId="-1" tvg-logo="" audio-track="por,eng" group-title="Minha Lista" ,Santuário de Aparecida - Santuario Nacional
-http://caikron.com.br:1935/santuario_aparecida/canal6.stream/playlist.m3u8
-
-#EXTINF:0 channelId="-1" tvg-logo="" audio-track="por,eng" group-title="Minha Lista" ,TV Canção Nova SP
-http://tvajuhls-lh.akamaihd.net/i/tvdesk_1@147040/master.m3u8
-
-#EXTINF:0 channelId="-1" tvg-logo="encurtador.com.br/kqHJ5" audio-track="por,eng" group-title="Minha Lista" ,Rede Século 21 SP
-https://dd8umsy8yf96u.cloudfront.net/live/rs21.m3u8
-
-#EXTINF: 0 tvg-name="" tvg-logo="" audio-track="por,eng" group-title="Minha Lista" ,Impd (Evangélica)
-http://impd.crossdigital.com.br:1935/impd/impd/playlist.m3u8
-
-#EXTINF:0 channelId="-1" tvg-logo="" audio-track="por,eng" group-title="Minha Lista" ,Rede Gênesis
-http://snt.sisdera.com:1935/tvgenesis/aovivo.stream/live.m3u8
-
-#EXTINF:0 channelId="-1" tvg-logo="" audio-track="por,eng" group-title="Minha Lista" ,Rede Familia
-http://srv9.zoeweb.tv:1935/zw901/zw901.smil/playlist.m3u8
-
-#EXTINF:0 channelId="-1" tvg-logo="" audio-track="por,eng" group-title="Minha Lista" ,Terceiro Anjo TV
-http://streamer1.streamhost.org:1935/salive/GMI3anjoh/livestream.m3u8
-
-#EXTINF:0 tvg-name="" tvg-logo="" audio-track="por,eng" group-title="Minha Lista" ,TV RBC RS
-http://rbc.directradios.com:1935/rbc/rbc.smil/chunklist_b1200000.m3u8
-## ******************* CANAIS DE PORTUGAL *******************
-#EXTINF:0 type="stream" channelId="2855" tvg-logo="" audio-track="por,eng" group-title="Minha Lista" ,Porto Canal - Portugal
-http://213.13.26.11:1935/live/portocanal/KodiPortugal.pt.m3u8
-
-#EXTINF:0 tvg-name="RTPI" tvg-logo="" audio-track="por,eng" group-title="Minha Lista" ,RTPi 1
-https://streaming-live.rtp.pt/liverepeater/smil:rtpi.smil/playlist.m3u8
-
 ## ******************* CANAIS LATINOS *******************
-#EXTINF:0 type="stream" channelId="3091" tvg-logo="" audio-track="por,eng" group-title="Minha Lista" ,TV TRT WORLD
-https://tv-trtworld.live.trt.com.tr/master.m3u8
-
-#EXTINF:0 type="stream" channelId="2663" tvg-logo="" audio-track="por,eng" group-title="Minha Lista" ,telesur - Venezuela
-https://cdnalt.telesur.ultrabase.net/mbliveAlt/480p/playlist.m3u8
-
-#EXTINF:0 tvg-name="" tvg-logo="" audio-track="por,eng" group-title="Minha Lista" ,UCSG TV Ecuador
-https://ecuastream.net:19360/ucsghd/ucsghd.m3u8
-
-#EXTINF:0 tvg-name="" tvg-logo="" audio-track="por,eng" group-title="Minha Lista" ,Canal 26 TV
-http://live-edge01.telecentro.net.ar/live/smil:c26.smil/master.m3u8
-
-#EXTINF:0 tvg-name="" tvg-logo="" audio-track="por,eng" group-title="Minha Lista" ,TLX Telemax TV
+#EXTINF:0 ,TLX Telemax TV
 http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/master.m3u8
 
-#EXTINF:0 tvg-name="" tvg-logo="" audio-track="por,eng" group-title="Minha Lista" ,Provincial (off)
-http://www.trimi.com.ar/provincial/streaming/mystream.m3u8
-
-#EXTINF:0 tvg-name="" tvg-logo="" audio-track="por,eng" group-title="Minha Lista" ,Valle TV (off)
-http://cdn.streamingmedia.cl:1935/live/rtmp.stream/playlist.m3u8
 ## ******************* CANAIS DIVERSOS *******************
-#EXTINF:0 tvg-name="" tvg-logo="http://i.imgur.com/k2K6b4l.png" audio-track="por,eng" group-title="Minha Lista" ,Hotel Praia Azul RN
-http://cdn-03.whatsupcams.com/hls/br_natal1.m3u8
-
-#EXTINF:0 tvg-name="" tvg-logo="" audio-track="por,eng" group-title="Minha Lista" ,Ponte Internacional da Amizade - Foz do Iguaçu PR (webcam)
+#EXTINF:0 ,Ponte Internacional da Amizade (Foz do Iguaçu PR webcam)
 https://5b33b873179a2.streamlock.net:1443/camerapontefoz/camerapontefoz.stream/playlist.m3u8
 
-#EXTINF:0 tvg-name="" tvg-logo="" audio-track="por,eng" aspect-ratio="4:3" group-title="Minha Lista" ,.
+#EXTINF:0 ,Som LG
 https://github.com/Wlba/SmartTV/blob/master/logo-lg.mp4?raw=true
-
-#EXTINF:0 tvg-name="" tvg-logo="" audio-track="por,eng" aspect-ratio="4:3" group-title="Minha Lista" ,..
-https://github.com/Wlba/SmartTV/blob/master/logo-lg.mp4?raw=true
-
