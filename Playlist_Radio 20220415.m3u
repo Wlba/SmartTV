@@ -28,6 +28,9 @@ https://ssl.zoeweb.net/proxy/inconfidencia2?mp=/stream
 #EXTINF:0,102.9 FM Rádio CDL BH
 https://9595.brasilstream.com.br/stream?identifica=5287549146056070000&rand=9543152602925850000
 
+#EXTINF:0,103.3 FM BH
+https://9730.brasilstream.com.br/stream
+
 #EXTINF:0,103.9 FM Light BH
 https://playerservices.streamtheworld.com/api/livestream-redirect/LIGHTFM_BRAAC.aac
 
