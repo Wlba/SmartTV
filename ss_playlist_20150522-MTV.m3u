@@ -266,7 +266,7 @@ https://video01.kshost.com.br:4443/kamal3366/kamal3366/playlist.m3u8
 https://stmv1.samcast.com.br/demaistv6503/demaistv6503/playlist.m3u8
 
 #EXTINF:0 type="stream" tvg-name="" tvg-logo="" audio-track="por,eng" group-title="Minha Lista" ,Retro Plus TV (Musicas) - Santiago Chile
-https://scl.edge.grupoz.cl/retroplus16@grupoz.cl_retrolive/live/playlist.m3u8
+https://ssh101stream.ssh101.com/akamaissh101/ssh101/retroplustv/playlist.m3u8
 
 #EXTINF:0 type="stream" channelId="-1" audio-track="por,eng" group-title="Minha Lista" ,Tv info bahia - BA
 https://59f1cbe63db89.streamlock.net:1443/tvinforbahia/tvinforbahia/chunklist_w147238720.m3u8
@@ -471,13 +471,13 @@ https://stmv1.srvif.com/classique/classique/playlist.m3u8
 https://stmv1.conectastreaming.com/hitstv/hitstv/playlist.m3u8
 
 #EXTINF:0 tvg-name="" tvg-logo="encurtador.com.br/qDQU4" audio-track="por,eng" group-title="Minha Lista" ,Retro Cartoon - SP
-https://stmv1.srvif.com/retrotv/retrotv/playlist-480p.m3u8
+https://stmv6.voxtvhd.com.br/retrotv3/retrotv3/playlist.m3u8
 
 #EXTINF:0 tvg-name="" tvg-logo="encurtador.com.br/fisN6" audio-track="por,eng" group-title="Minha Lista" ,TV Rock - Francisco Beltrão PR Brasil
 https://59f1cbe63db89.streamlock.net:1443/tvbeltrao3/_definst_/tvbeltrao3/playlist.m3u8
 
-#EXTINF:0 tvg-name="" tvg-logo="" audio-track="por,eng" group-title="Minha Lista" ,Desenhos Clássicos TV - Brasil
-https://stmv1.srvif.com/retrotv/retrotv/playlist.m3u8
+#EXTINF:0 tvg-name="" tvg-logo="" audio-track="por,eng" group-title="Minha Lista" ,Web Tv Clássicos - Brasil
+https://stmv1.srvif.com/movies1/movies1/playlist.m3u8
 
 #EXTINF:0 channelId="-1" tvg-logo="encurtador.com.br/dgG13" group-title="Minha Lista" ,TV Digital Birigui - SP
 http://wse01.logicahost.com.br:1935/tvdigitalbirigui/_definst_/tvdigitalbirigui/playlist.m3u8
