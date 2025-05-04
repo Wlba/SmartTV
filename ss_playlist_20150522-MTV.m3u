@@ -35,8 +35,8 @@ dtv://antenna:17/atsc/9/2
 #EXTINF:0 tvg-name="" tvg-logo="goo.gl/i3vUuM" group-title="Minha Lista" ,Rede Minas HD
 dtv://antenna:17/atsc/9/1
 
-#EXTINF:0 tvg-name="" tvg-logo="encurtador.com.br/kvzC0" audio-track="por,eng" group-title="Minha Lista" ,Tv Futuro - RN (TV Cultura)
-https://tv02.zas.media:1936/tvfuturo/tvfuturo/playlist.m3u8
+#EXTINF:0 tvg-name="" tvg-logo="encurtador.com.br/kvzC0" audio-track="por,eng" group-title="Minha Lista" ,Tv Futuro - RN (TV Cultura) .off
+https://
 
 #EXTINF:0 tvg-name="TV Câmara" tvg-logo="" audio-track="por,eng" group-title="Minha Lista" ,TV Camara BR
 dtv://antenna:45/atsc/11/1
