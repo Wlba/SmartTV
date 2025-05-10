@@ -16,6 +16,9 @@ https://playerservices.streamtheworld.com/api/livestream-redirect/RADIO_ALVORADA
 #EXTINF:0 tvg-logo="https://encurtador.com.br/kpxBC" group-title="Minha Lista" ,95.7 FM Radio Itatiaia BH
 https://8903.brasilstream.com.br/stream
 
+#EXTINF:0,96.1 FM Rádio Classic Pan BH
+https://8374.brasilstream.com.br/stream
+
 #EXTINF:0,98.3 FM Rádio 98 BH
 https://9554.brasilstream.com.br/stream?1650073947920
 
