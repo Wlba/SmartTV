@@ -29,14 +29,14 @@ https://stmv1.transmissaodigital.com/cidadeverdenovo/cidadeverdenovo/playlist.m3
 #EXTINF:0 tvg-name="Band" tvg-logo="" audio-track="por,eng" group-title="Minha Lista" ,Band HDTV 
 dtv://antenna:20/atsc/7/1
 
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="goo.gl/i3vUuM" group-title="Minha Lista" ,Rede Minas - Educação HD
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="goo.gl/i3vUuM" group-title="Minha Lista" ,Rede Minas - Educação1 HD
 dtv://antenna:17/atsc/9/2
 
 #EXTINF:0 tvg-name="" tvg-logo="goo.gl/i3vUuM" group-title="Minha Lista" ,Rede Minas HD
 dtv://antenna:17/atsc/9/1
 
-#EXTINF:0 tvg-name="" tvg-logo="encurtador.com.br/kvzC0" audio-track="por,eng" group-title="Minha Lista" ,Tv Futuro - RN (TV Cultura) .off
-https://
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="goo.gl/i3vUuM" group-title="Minha Lista" ,Rede Minas - Educação2 HD
+dtv://antenna:17/atsc/9/3
 
 #EXTINF:0 tvg-name="TV Câmara" tvg-logo="" audio-track="por,eng" group-title="Minha Lista" ,TV Camara BR
 dtv://antenna:45/atsc/11/1
@@ -62,26 +62,17 @@ dtv://antenna:44/atsc/44/1
 #EXTINF:0 channelId="2449" tvg-logo="" audio-track="por,eng" group-title="Minha Lista" ,Canção Nova SP
 dtv://antenna:42/atsc/45/1
 
-#EXTINF:0 tvg-id="Canal Brasil" tvg-name="Canal Brasil HD" tvg-logo="http://abre.pw/images/canais/canal-brasil-hd.png" group-title="Minha Lista" ,Canal Brasil HD .Off
+#EXTINF:0 tvg-name="" tvg-logo="" group-title="Minha Lista" ,.Off
 https://0.0.0.0
 
-## EXTINF:0 type="playlist" tvg-name="" tvg-logo="" audio-track="por,eng" group-title="Minha Lista" ,ss_playlist_20150522-MTV
-## https://raw.githubusercontent.com/Wlba/SmartTV/refs/heads/master/ss_playlist_20150522-MTV.m3u
-
-#EXTINF:0 tvg-id="BIS" tvg-name="BIS HD" tvg-logo="" group-title="Minha Lista" ,BIS HD .Off
+#EXTINF:0 tvg-name="" tvg-logo="" group-title="Minha Lista" ,.Off
 https://0.0.0.0
 
-#EXTINF:0 tvg-id="Futura" tvg-name="Futura HD" tvg-logo="" group-title="Minha Lista" ,Futura HD .Off
+#EXTINF:0 tvg-name="" tvg-logo="" group-title="Minha Lista" ,.Off
 https://0.0.0.0
 
-## EXTINF:0 tvg-id="Modo Viagem" tvg-name="Modo Viagem HD" tvg-logo="" group-title="Minha Lista" ,Modo Viagem HD .Off
-## https://0.0.0.0
-
-## EXTINF:0 tvg-id="GE fast" tvg-name="GE fast HD" tvg-logo="" group-title="Minha Lista" ,GE fast HD .Off
-## https://0.0.0.0
-
-#EXTINF:0 tvg-id="GloboNews" tvg-name="Globo News" tvg-logo="" group-title="Minha Lista" ,TV Globo News1 .Off
-https://live-01.edge-oi-mpi-mg.video.globo.com/j/eyJhbGciOiJSUzUxMiIsImtpZCI6IjEiLCJ0eXAiOiJKV1QifQ.eyJjb3VudHJ5X2NvZGUiOiJCUiIsImRvbWFpbiI6ImxpdmUtMDEuZWRnZS1vaS1tcGktbWcudmlkZW8uZ2xvYm8uY29tIiwiZXhwIjoxNzM1MzQxNzg1LCJpYXQiOjE3MzUyNTUzODUsImlzcyI6InBsYXliYWNrLWFwaS1wcm9kLWdjcCIsIm93bmVyIjoiNTQwYjY4YWMtYWVlZC00MmJhLWEwNWEtZTY1NzA0YzVlYTc5IiwicGF0aCI6Ii9udS9mKGk9MikvZ25ld3MyNGhhL3BsYXlsaXN0Lm0zdTgifQ.Yj2RAKAokXN92Y1VYnc8WFQw1OXApt4vwiq0qwmjXZUMROaXP8bso29Gc05p6hVQStLeUcGCJigZrV19fSAmd06RyEw76XdgimOmFwEtaJ8BNGg1tzHuxQIQ3Bj4PyNitJf1cvf_q8AnI4PdMcPuRqMxMm0YIgKPaMFNpIu_BANcEUp6WnBpgfAeLw7Pzq6SP5mCwK4M688hYceIqFyS85D3ab2xlwt-v4lfvTlxVJm4mTl9efoEzAjIE-XsG6fPWPXz58vO8K9kUUShqnggCNZWNRS-2Os_I5G-PNB6-L1nbABstH6EBaFO950RMbBsK3dGVItYBPrOLGcuTsWrpQ/nu/f(i=2)/gnews24ha/playlist.m3u8
+#EXTINF:0 tvg-name="" tvg-logo="" group-title="Minha Lista" ,.Off
+https://0.0.0.0
 
 #EXTINF:0 tvg-id="GloboNews" tvg-name="Globo News" tvg-logo="" group-title="Minha Lista" ,TV Globo News2 .Off
 https://live-01.edge-oi-mpi-mg.video.globo.com/j/eyJhbGciOiJSUzUxMiIsImtpZCI6IjEiLCJ0eXAiOiJKV1QifQ.eyJjb3VudHJ5X2NvZGUiOiJCUiIsImRvbWFpbiI6ImxpdmUtMDEuZWRnZS1vaS1tcGktbWcudmlkZW8uZ2xvYm8uY29tIiwiZXhwIjoxNzM1MzQxNzg1LCJpYXQiOjE3MzUyNTUzODUsImlzcyI6InBsYXliYWNrLWFwaS1wcm9kLWdjcCIsIm93bmVyIjoiNTQwYjY4YWMtYWVlZC00MmJhLWEwNWEtZTY1NzA0YzVlYTc5IiwicGF0aCI6Ii9udS9mKGk9MikvZ25ld3MyNGhhL3BsYXlsaXN0Lm0zdTgifQ.Yj2RAKAokXN92Y1VYnc8WFQw1OXApt4vwiq0qwmjXZUMROaXP8bso29Gc05p6hVQStLeUcGCJigZrV19fSAmd06RyEw76XdgimOmFwEtaJ8BNGg1tzHuxQIQ3Bj4PyNitJf1cvf_q8AnI4PdMcPuRqMxMm0YIgKPaMFNpIu_BANcEUp6WnBpgfAeLw7Pzq6SP5mCwK4M688hYceIqFyS85D3ab2xlwt-v4lfvTlxVJm4mTl9efoEzAjIE-XsG6fPWPXz58vO8K9kUUShqnggCNZWNRS-2Os_I5G-PNB6-L1nbABstH6EBaFO950RMbBsK3dGVItYBPrOLGcuTsWrpQ/nu/f(i=2)/gnews24ha/playlist.m3u8?originpath=/linear/hls/pa/event/2QTY2zCvSpiAKK8YHllzjA/stream/97bdcb21-5cfe-418b-861f-fc7c7281e3c4:SCL/variant/72a5df5a07fa2aaa9f70ac9d5241eeb7/bandwidth/4127000.m3u8
@@ -1294,4 +1285,5 @@ http://0.0.0.0
 
 #EXTINF:0 tvg-name="" tvg-logo="" audio-track="por,eng" aspect-ratio="4:3" group-title="Minha Lista" ,..
 usb://logo-lg.mp4
+
 
