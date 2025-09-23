@@ -107,8 +107,8 @@ http://streaming.procergs.com.br:1935/tve/stve/playlist.m3u8
 #EXTINF:0 tvg-name="TVE RS" tvg-logo="" audio-track="por,eng" group-title="Minha Lista" ,TVE RS - TV Brasil
 http://streaming.procergs.com.br:1935/tve/stve/playlist.m3u8
 
-#EXTINF:0 tvg-name="" tvg-logo="" audio-track="por,eng" group-title="Minha Lista" ,.Off
-https://0.0.0
+#EXTINF:0 tvg-name="" tvg-logo="" audio-track="por,eng" group-title="Minha Lista" ,TV UFG Goiás
+http://flash.softhost.com.br:1935/ufg/tvufgweb/live.m3u8
 
 #EXTINF:0 type="stream" tvg-logo="goo.gl/hWyMrt" audio-track="por,eng" group-title="Minha Lista" ,TV ALMG HD
 dtv://antenna:35/atsc/35/1
@@ -116,16 +116,16 @@ dtv://antenna:35/atsc/35/1
 #EXTINF:0 tvg-name="" tvg-logo="encurtador.com.br/nJUX1" audio-track="por,eng" group-title="Minha Lista" ,Canal 29 HD - SP
 https://stmv1.srvif.com/canal29/canal29/playlist.m3u8
 
-#EXTINF:0 tvg-name="" tvg-logo="https://goo.gl/4ANOVZ" audio-track="por,eng" group-title="Minha Lista" ,TV Faap HD - SP
-http://midia.faap.br/faaplatamlive-live/stream_720/livestream.m3u8
+#EXTINF:0 tvg-name="" tvg-logo="" audio-track="por,eng" group-title="Minha Lista" ,.Off
+http://0.0.0.0
 
 #EXTINF:0 tvg-name="" tvg-logo="" audio-track="por,eng" group-title="Minha Lista" ,Nativa Tv - Manaus AM
-https://stmv1.srvif.com/nativatv/nativatv/playlist.m3u8
+https://stmv1.samcast.com.br/nativatv/nativatv/playlist.m3u8
 
 #EXTINF:0 tvg-name="TV Cultura" tvg-logo="" audio-track="por,eng" group-title="Minha Lista" ,TV Cultura SP
 https://5b33b873179a2.streamlock.net:1443/live/livestream/playlist.m3u8
 
-#EXTINF:0 type="playlist" tvg-name="" tvg-logo="https://cdn.awsli.com.br/598/598184/logo/d7b67f908f.jpg" audio-track="por,eng" group-title="Minha Lista" ,Diversas Radias
+#EXTINF:0 type="playlist" tvg-name="" tvg-logo="https://cdn.awsli.com.br/598/598184/logo/d7b67f908f.jpg" audio-track="por,eng" group-title="Minha Lista" ,Diversas Rádias
 https://github.com/Wlba/SmartTV/raw/refs/heads/master/Playlist_Radio%2020220415.m3u
 ## usb://Playlist_Radio 20220415.m3u
 
@@ -138,8 +138,8 @@ dtv://antenna:41/atsc/41/1
 #EXTINF:0 type="stream" tvg-name="CBN" tvg-logo="" audio-track="por,eng" group-title="Minha Lista" ,Rádio CBN - SP
 https://playerservices.streamtheworld.com/api/livestream-redirect/CBN_SPAAC.aac
 
-#EXTINF:0 type="stream" tvg-name="CBN" tvg-logo="" audio-track="por,eng" group-title="Minha Lista" ,Rádio CBN – RJ .off
-https://playerservices.streamtheworld.com/api/livestream-redirect/CBN_RJAAC.aac
+#EXTINF:0 type="stream" tvg-name="" tvg-logo="" audio-track="por,eng" group-title="Minha Lista" ,.Off
+https://0.0.0.0
 
 #EXTINF:0 tvg-name="" tvg-logo="http://i.imgur.com/3AJYeJB.jpg" audio-track="por,eng" group-title="Minha Lista" ,Rádio CBN - BH
 https://playerservices.streamtheworld.com/api/livestream-redirect/CBN_BHAAC.aac
@@ -150,8 +150,8 @@ https://centova5.transmissaodigital.com:20035/;
 #EXTINF:0 type="stream" tvg-name="" tvg-logo="http://goo.gl/s3R6m4" audio-track="por,eng" group-title="Minha Lista" ,Radio Itatiaia 95.7 FM - BH
 https://8903.brasilstream.com.br/stream
 
-#EXTINF:0 tvg-name="" tvg-logo="encurtador.com.br/dCFYZ" audio-track="por,eng" group-title="Minha Lista" ,Rádio Super 91.7 FM - BH
-https://9134.brasilstream.com.br/stream
+#EXTINF:0 tvg-name="" tvg-logo="" audio-track="por,eng" group-title="Minha Lista" ,.Off
+https://0.0.0.0
 
 #EXTINF:0 tvg-name="Rede Vida" tvg-logo="" audio-track="por,eng" group-title="Minha Lista" ,Rede Vida-1 HD
 dtv://antenna:49/atsc/48/1
@@ -171,8 +171,8 @@ dtv://antenna:26/atsc/52/1
 #EXTINF:0 tvg-name="Rede Vida" tvg-logo="" audio-track="por,eng" group-title="Minha Lista" ,Rede Vida-3 HD
 dtv://antenna:49/atsc/48/3
 
-#EXTINF:0 tvg-name="" tvg-logo="" audio-track="por,eng" group-title="Minha Lista" ,TV UFSC - Florianópolis SC
-https://tvaovivo.sites.ufsc.br/hls/1.m3u8
+#EXTINF:0 tvg-name="" tvg-logo="" audio-track="por,eng" group-title="Minha Lista" ,.Off
+https://0.0.0.0
 
 #EXTINF:0 tvg-name="" tvg-logo="" audio-track="por,eng" group-title="Minha Lista" ,Rádio Studio Souto Goiânia - Love Songs
 https://centova5.transmissaodigital.com:20022/;
@@ -180,11 +180,11 @@ https://centova5.transmissaodigital.com:20022/;
 #EXTINF:0 tvg-name="" tvg-logo="" audio-track="por,eng" group-title="Minha Lista" ,Rádio Studio Souto Goiânia - MPB Musicalidade
 https://centova5.transmissaodigital.com:20025/;
 
-#EXTINF:0 channelId="" tvg-logo="" audio-track="por,eng" group-title="Minha Lista" ,FMUTV - SP
-https://stmv1.srvstm.com/fernando5813/fernando5813/playlist.m3u8
+#EXTINF:0 channelId="" tvg-logo="" audio-track="por,eng" group-title="Minha Lista" ,.Off
+https://0.0.0.0
 
 #EXTINF:0 tvg-name="" tvg-logo="https://goo.gl/c6GVN0" audio-track="por,eng" group-title="Minha Lista" ,Rede Brasil - SP
-https://video01.logicahost.com.br/redebrasil02/redebrasil02/playlist.m3u8
+https://video09.logicahost.com.br/redebrasiloficial/redebrasiloficial/playlist.m3u8
 
 #EXTINF:0 tvg-name="" tvg-logo="" audio-track="por,eng" group-title="Minha Lista" ,TV RIT
 dtv://antenna:23/atsc/59/1
@@ -1203,7 +1203,7 @@ http://snt.sisdera.com:1935/tvgenesis/aovivo.stream/live.m3u8
 http://srv9.zoeweb.tv:1935/zw901/zw901.smil/playlist.m3u8
 
 #EXTINF:0 channelId="-1" tvg-logo="" audio-track="por,eng" group-title="Minha Lista" ,Terceiro Anjo TV
-http://streamer1.streamhost.org:1935/salive/GMI3anjoh/livestream.m3u8
+http://streamer1.streamhost.org:1935/salive/GMI3anjoh/playlist.m3u8
 
 #EXTINF:0 tvg-name="" tvg-logo="" audio-track="por,eng" group-title="Minha Lista" ,TV RBC RS
 http://rbc.directradios.com:1935/rbc/rbc.smil/chunklist_b1200000.m3u8
@@ -1282,6 +1282,7 @@ http://0.0.0.0
 
 #EXTINF:0 tvg-name="" tvg-logo="" audio-track="por,eng" aspect-ratio="4:3" group-title="Minha Lista" ,..
 usb://logo-lg.mp4
+
 
 
 
