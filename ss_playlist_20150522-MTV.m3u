@@ -253,7 +253,7 @@ https://video01.kshost.com.br:4443/kamal3366/kamal3366/playlist.m3u8
 https://stmv1.samcast.com.br/demaistv6503/demaistv6503/playlist.m3u8
 
 #EXTINF:0 type="stream" tvg-name="" tvg-logo="" audio-track="por,eng" group-title="Minha Lista" ,Retro Plus TV (Musicas) - Santiago Chile
-https://ssh101stream.ssh101.com/akamaissh101/ssh101/retroplustv/playlist.m3u8
+https://scl.edge.grupoz.cl/retroplustvuno/live/playlist.m3u8
 
 #EXTINF:0 type="stream" channelId="-1" audio-track="por,eng" group-title="Minha Lista" ,Tv info bahia - BA
 https://59f1cbe63db89.streamlock.net:1443/tvinforbahia/tvinforbahia/chunklist_w147238720.m3u8
@@ -263,6 +263,7 @@ https://5ad482a77183d.streamlock.net/rodrigotvbrusque.com.br/_definst_/5d880199c
 
 #EXTINF:0 channelId="1595" tvg-logo="" audio-track="por,eng" group-title="Minha Lista" ,Retro Music - República Tcheca
 http://stream.mediawork.cz/retrotv//retrotvHQ1/playlist.m3u8
+##https://stream.mediawork.cz/retrotv/smil:retrotv2.smil/playlist.m3u8
 
 #EXTINF:0 channelId="2461" tvg-logo="" audio-track="por,eng" group-title="Minha Lista" ,TV União - RN
 https://rtmp.uniaoplay.com.br/tvuniaonatal/6b517d4134797cf29f129240def46bba.sdp/playlist.m3u8
@@ -273,26 +274,26 @@ http://209.222.17.241:5080/LiveApp/streams/872258137935361699746456.m3u8
 #EXTINF:0 tvg-name="TV Vila Imperial" tvg-logo="" audio-track="por,eng" group-title="Minha Lista" ,TV Vila Imperial - RJ
 https://596639ebdd89b.streamlock.net/8072/8072/playlist.m3u8
 
-#EXTINF:0 tvg-name="TV Transamérica" tvg-logo="" audio-track="por,eng" group-title="Minha Lista" ,TV Transamérica .off
+#EXTINF:0 tvg-name="" tvg-logo="" audio-track="por,eng" group-title="Minha Lista" ,.Off
 http://0.0.0.0
 
 #EXTINF:0 tvg-name="" tvg-logo="" audio-track="por,eng" group-title="Minha Lista" ,Tv Metropolitana - Rj
 https://alanza.iptv2022.com/METROPOLITANA_RIO/index.m3u8
 
-#EXTINF:0 type="stream" tvg-logo="encurtador.com.br/boC14" audio-track="por,eng" group-title="Minha Lista" ,98live FM BH .off
+#EXTINF:0 type="stream" tvg-logo="" audio-track="por,eng" group-title="Minha Lista" ,.Off
 https://0.0.0.0
 
 #EXTINF:0 tvg-id="" tvg-name="Rede TV Sul" tvg-logo="http://abre.pw/images/canais/bis-hd.png" group-title="Minha Lista" ,Rede TV Sul - SC
 https://5a0c3936c25c8.streamlock.net/8032/8032/playlist.m3u8
 
-#EXTINF:0 tvg-id="VH1 Mega Hits" tvg-name="VH1 HD" tvg-logo="http://abre.pw/images/canais/vh1-hd.png" group-title="Minha Lista" ,VH1 HD .mtv
-http://link.sv01.pw:80/hfWZyT5BKr/YIQr2nKNTV/4
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="" group-title="Minha Lista" ,.Off
+http://0.0.0.0
 
-#EXTINF:0 tvg-id="" tvg-name="Music Box Brasil HD" tvg-logo="http://abre.pw/images/canais/music-box-brasil.png" group-title="Minha Lista" ,Music Box Brasil SD .mtv
-http://link.sv01.pw:80/hfWZyT5BKr/YIQr2nKNTV/78
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="" group-title="Minha Lista" ,.Off
+http://0.0.0.0
 
-#EXTINF:0 tvg-id="MTV Brasil" tvg-name="MTV HD" tvg-logo="http://abre.pw/images/canais/mtv-hd.png" group-title="Minha Lista" ,MTV HD .mtv
-http://link.sv01.pw:80/hfWZyT5BKr/YIQr2nKNTV/80
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="" group-title="Minha Lista" ,.Off
+http://0.0.0.0
 
 #EXTINF:0 tvg-name="" tvg-logo="" audio-track="por,eng" group-title="Minha Lista" ,Rede CNT HD
 dtv://antenna:38/atsc/56/1
@@ -301,70 +302,70 @@ dtv://antenna:38/atsc/56/1
 https://video04.logicahost.com.br/cariocainternacional/cariocainternacional/playlist.m3u8
 
 ## *********************** CANAIS ABERTO DIVERSOS ********************
-#EXTINF:0 channelId="-1" tvg-logo="https://goo.gl/JmveKL" audio-track="por,eng" group-title="Minha Lista" ,TV Vitória ES - Record .Off
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="" group-title="Minha Lista" ,.Off
 http://0.0.0.0
 
-#EXTINF:0 tvg-id="Record" tvg-name="Record RJ HD" tvg-logo="http://abre.pw/images/canais/record.png" group-title="Minha Lista" ,Record RJ HD .Off
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="" group-title="Minha Lista" ,.Off
 http://0.0.0.0
 
-#EXTINF:0 tvg-id="Record" tvg-name="Record DF HD" tvg-logo="http://abre.pw/images/canais/record.png" group-title="Minha Lista" ,Record DF HD .Off
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="" group-title="Minha Lista" ,.Off
 http://0.0.0.0
 
-#EXTINF:0 tvg-id="Record" tvg-name="Record RS HD" tvg-logo="http://abre.pw/images/canais/record.png" group-title="Minha Lista" ,Record RS HD .Off
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="" group-title="Minha Lista" ,.Off
 http://0.0.0.0
 
-#EXTINF:0 tvg-id="Rede TV" tvg-name="Rede TV HD" tvg-logo="http://abre.pw/images/canais/rede-tv-hd.png" group-title="Minha Lista" ,Rede TV! HD .Off
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="" group-title="Minha Lista" ,.Off
 http://0.0.0.0
 
-#EXTINF:0 tvg-id="SBT" tvg-name="SBT HD" tvg-logo="http://abre.pw/images/canais/sbt.png" group-title="Minha Lista" ,SBT HD .Off
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="" group-title="Minha Lista" ,.Off
 http://0.0.0.0
 
-#EXTINF:0 tvg-id="SBT" tvg-name="SBT Goias HD" tvg-logo="http://abre.pw/images/canais/sbt.png" group-title="Minha Lista" ,SBT Goias HD .Off
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="" group-title="Minha Lista" ,.Off
 http://0.0.0.0
 
-#EXTINF:0 tvg-id="GNT" tvg-name="GNT" tvg-logo="" group-title="Minha Lista" ,GNT HD .Off
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="" group-title="Minha Lista" ,.Off
 http://0.0.0.0
 
-#EXTINF:0 tvg-id="MULTSHOW" tvg-name="MULTSHOW" tvg-logo="" group-title="Minha Lista" ,MULTSHOW HD .Off
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="" group-title="Minha Lista" ,.Off
 http://0.0.0.0
 
-#EXTINF:0 tvg-id="OFF" tvg-name="OFF" tvg-logo="" group-title="Minha Lista" ,OFF HD .Off
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="" group-title="Minha Lista" ,.Off
 http://0.0.0.0
 
-#EXTINF:0 tvg-id="Globo 4" tvg-name="Globo PR HD" tvg-logo="http://abre.pw/images/canais/globo.png" group-title="Minha Lista" ,Globo-2 NEW HD .Off
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="" group-title="Minha Lista" ,.Off
 http://0.0.0.0
 
-#EXTINF:0 tvg-id="Globo - TV Anhanguera Goiás" tvg-name="Globo Goias HD" tvg-logo="http://abre.pw/images/canais/globo.png" group-title="Minha Lista" ,Globo Goias HD .Off
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="" group-title="Minha Lista" ,.Off
 http://0.0.0.0
 
-#EXTINF:0 tvg-id="Globo 3" tvg-name="Globo Nordeste HD" tvg-logo="http://abre.pw/images/canais/globo.png" group-title="Minha Lista" ,Globo Nordeste HD .Off
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="" group-title="Minha Lista" ,.Off
 http://0.0.0.0
 
-#EXTINF:0 tvg-id="Globo 2" tvg-name="Globo Belem" tvg-logo="http://abre.pw/images/canais/globo.png" group-title="Minha Lista" ,Globo Belém .Off
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="" group-title="Minha Lista" ,.Off
 http://0.0.0.0
 
-#EXTINF:0 tvg-id="Globo 9" tvg-name="Globo Sao Jose dos Campos" tvg-logo="http://abre.pw/images/canais/globo.png" group-title="Minha Lista" ,Globo Sao Jose dos Campos .Off
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="" group-title="Minha Lista" ,.Off
 http://0.0.0.0
 
-#EXTINF:0 tvg-id="Globo - Rede Bahia" tvg-name="Globo Bahia HD" tvg-logo="http://abre.pw/images/canais/globo-bahia.png" group-title="Minha Lista",Globo Bahia HD .Off
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="" group-title="Minha Lista" ,.Off
 http://0.0.0.0
 
-#EXTINF:0 channelId="-1" tvg-logo="" audio-track="por,eng" group-title="Minha Lista" ,TV Câmara DF
-http://stream2.camara.leg.br:80/camara-hls-live/tv2/camaraevent/TV2.m3u8
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="" group-title="Minha Lista" ,.Off
+http://0.0.0.0
 
-#EXTINF:0 channelId="-1" tvg-logo="" audio-track="por,eng" group-title="Minha Lista" ,TV Assembleia SP
-http://srv3.zoeweb.tv:1935/z93-live/stream/livestream.m3u8
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="" group-title="Minha Lista" ,.Off
+http://0.0.0.0
 
-#EXTINF:0 channelId="-1" tvg-logo="" audio-track="por,eng" group-title="Minha Lista" ,TV Assembleia BA
-http://alba-live.hls.adaptive.level3.net/hls-live/live-albalive/_definst_/live.m3u8
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="" group-title="Minha Lista" ,.Off
+http://0.0.0.0
 
-#EXTINF:0 channelId="-1" tvg-logo="" audio-track="por,eng" group-title="Minha Lista" ,TV Assembleia RN
-http://srv6.zoeweb.tv:1935/z783-live/stream/livestream.m3u8
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="" group-title="Minha Lista" ,.Off
+http://0.0.0.0
 
-#EXTINF:0 channelId="-1" tvg-logo="" audio-track="por,eng" group-title="Minha Lista" ,TV Assembleia CE
-https://5a7d54e35f9d2.streamlock.net/z404-live/stream/playlist.m3u8
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="" group-title="Minha Lista" ,.Off
+http://0.0.0.0
 
-#EXTINF:0 type="stream" channelId="-1" audio-track="por,eng" group-title="Minha Lista" ,Rede New TV - SP .Off
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="" group-title="Minha Lista" ,.Off
 http://0.0.0.0
 
 #EXTINF:0 channelId="" tvg-logo="" audio-track="por,eng" group-title="Minha Lista" ,TVN Brasil DF
@@ -373,20 +374,20 @@ http://painelvj.com.br:1935/tvnbrasil/tvnbrasil.sdp/live.m3u8
 #EXTINF:0 tvg-name="" tvg-logo="" audio-track="por,eng" group-title="Minha Lista" ,TV Geral - BA
 https://livefocamundo.com:8081/camaramunicipaldediasdavila/index.m3u8
 
-#EXTINF:0 tvg-name="" tvg-logo="" audio-track="por,eng" group-title="Minha Lista" ,TV Cine+ - Campo Grande MS .off
-https://0.0.0.0
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="" group-title="Minha Lista" ,.Off
+http://0.0.0.0
 
-#EXTINF:0 tvg-name="" tvg-logo="" audio-track="por,eng" group-title="Minha Lista" ,TV na ILHA - Ilha Solteira SP .off
-https://0.0.0.0
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="" group-title="Minha Lista" ,.Off
+http://0.0.0.0
 
-#EXTINF:0 tvg-name="" tvg-logo="" audio-track="por,eng" group-title="Minha Lista" ,ONE TV – Recife PE .off
-https://0.0.0.0
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="" group-title="Minha Lista" ,.Off
+http://0.0.0.0
 
-#EXTINF:0 tvg-name="" tvg-logo="" audio-track="por,eng" group-title="Minha Lista" ,TV Educar (católica) Ponte Nova-MG .off
-https://0.0.0.0
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="" group-title="Minha Lista" ,.Off
+http://0.0.0.0
 
-#EXTINF:0 tvg-name="" tvg-logo="" audio-track="por,eng" group-title="Minha Lista" ,TV GRAVA Alfenas-MG .off
-https://0.0.0.0
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="" group-title="Minha Lista" ,.Off
+http://0.0.0.0
 
 #EXTINF:0 type="stream" tvg-name="" tvg-logo="" audio-track="por,eng" group-title="Minha Lista" ,TV Plan Poços de Caldas-MG
 http://rtmp.cdn.upx.net.br/723b/myStream.sdp/playlist.m3u8
@@ -452,7 +453,7 @@ https://br5093.streamingdevideo.com.br/tvaberto/tvaberto/playlist.m3u8
 https://stmv1.srvif.com/canal29/canal29/playlist.m3u8
 
 #EXTINF:0 channelId="-1" tvg-logo="encurtador.com.br/lsvzX" audio-track="por,eng" group-title="Minha Lista" ,Classique TV
-https://stmv1.srvif.com/classique/classique/playlist.m3u8
+https://stmv2.painelvideocast.com.br/classique/classique/playlist.m3u8
 
 #EXTINF:0 tvg-name="" tvg-logo="" audio-track="por,eng" group-title="Minha Lista" ,Cine Tv Hits - Alvorada RS
 https://stmv1.conectastreaming.com/hitstv/hitstv/playlist.m3u8
@@ -1281,6 +1282,7 @@ http://0.0.0.0
 
 #EXTINF:0 tvg-name="" tvg-logo="" audio-track="por,eng" aspect-ratio="4:3" group-title="Minha Lista" ,..
 usb://logo-lg.mp4
+
 
 
 
