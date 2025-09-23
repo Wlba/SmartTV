@@ -207,21 +207,20 @@ dtv://antenna:45/atsc/11/4
 #EXTINF:0 type="stream" channelId="" tvg-logo="" audio-track="por,eng" group-title="Minha Lista" ,Unisul TV - Tubarão SC
 https://sitetv.brasilstream.com.br/hls/sitetv/index.m3u8
 
-#EXTINF:0 tvg-name="Viva Nov80" type="stream" tvg-logo="" audio-track="por,eng" group-title="Minha Lista" ,Viva Nov80 .Off
+#EXTINF:0 tvg-name="" type="stream" tvg-logo="" audio-track="por,eng" group-title="Minha Lista" ,.Off
 https://0.0.0.0
 
-#EXTINF:0 tvg-name="Viva Nov70" type="stream" tvg-logo="" audio-track="por,eng" group-title="Minha Lista" ,Viva Nov70 .Off
+#EXTINF:0 tvg-name="" type="stream" tvg-logo="" audio-track="por,eng" group-title="Minha Lista" ,.Off
 https://0.0.0.0
 
 #EXTINF:0 tvg-name="TV Manchete" type="stream" tvg-name="" tvg-logo="" audio-track="por,eng" group-title="Minha Lista" ,TV Manchete - SP
 https://stmv1.srvif.com/tvserie/tvserie/playlist.m3u8
 
-#EXTINF:0 tvg-name="" tvg-logo="goo.gl/4cTLbs" audio-track="por,eng" group-title="Minha Lista" ,WTJ TV Minas - BH
-https://video01.kshost.com.br:4443/wladimir4773/wladimir4773/playlist.m3u8
+#EXTINF:0 tvg-name="" tvg-logo="https://encurtador.com.br/60xHy" audio-track="por,eng" group-title="Minha Lista" ,WTJ TV Minas - BH
+https://video02.logicahost.com.br/wtjtvminas/wtjtvminas/playlist.m3u8
 
 #EXTINF:0 tvg-id="" tvg-name="TV Gazeta HD" tvg-logo="" group-title="Minha Lista" ,TV Gazeta HD – SP
-https://www.dailymotion.com/cdn/live/video/x8ttlxm.m3u8?sec=rgg392ropdoeXm-lsRAA8CWSI-w1I1Ut-5cnYiAhRyyRp-wXyP-HM3uOxpyin_QS0dlo2YDTFJBjwT6QtAxDWg&dmTs=782301&dmV1st=6cbf0b9c-7651-8778-9daa-c3818aecaf46
-## https://live-b.cf.dmcdn.net/sec2(oBA1vRE90d_e6vka4n7Bbn61dDHbrnTR5gJ0iGoLNk0sez7rN7i25EnxI-skTWR8V9phfLvZ7PoGW6rgKhG-Z_78xvCydLzyYwy37r1E7yoNnpYCvuqfL-Wvn87nO4zy)/dm/3/x8ttlxm/s/live-240.m3u8
+https://live.eu-north-1b.cf.dmcdn.net/sec2(mZQRJi5armDLNdUXFMl7Ix47IRjYEZKKItQI20dvCHdkCVpWT22c5iISbse2C_v4wxRW8Qc0FX14tVTHYXBwOYUoI2vYlidbNSifcC4oQmV7iq29vahBCzIYxtGy4uTH)/dm/3/x8ttlxm/s/live-720.m3u8
 
 #EXTINF:0 type="stream" tvg-logo="encurtador.com.br/rvwxO" audio-track="por,eng" group-title="Minha Lista" ,TV Japi - Jundiai SP
 https://stmv1.paineltv.net/tvjapi/tvjapi/playlist.m3u8
@@ -230,16 +229,16 @@ https://stmv1.paineltv.net/tvjapi/tvjapi/playlist.m3u8
 dtv://antenna:16/atsc/16/1
 
 #EXTINF:0 tvg-name="" tvg-logo="https://goo.gl/jacJm3" audio-track="por,eng" group-title="Minha Lista" ,TV Pantanal - MT
-https://59d39900ebfb8.streamlock.net/8040/8040/playlist.m3u8
+https://5a2b083e9f360.streamlock.net/tvpantanal/tvpantanal.sdp/chunklist_w1595845833.m3u8
 
 #EXTINF:0 tvg-name="" tvg-logo="" group-title="Minha Lista" ,Rede Mundo TV - Francisco Beltrão PR
-https://st-srv02.alfamax.com.br/REDE_MUNDO_2/index.m3u8?token=cdntv_62qwd7eSv1Ihnlni
+https://video04.logicahost.com.br/redemundotv/redemundotv/chunklist_w583439784.m3u8
 
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="" group-title="Minha Lista" ,MKK TV
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="" group-title="Minha Lista" ,MKK TV SP
 https://video01.logicahost.com.br/mkkwebtv/mkkwebtv/playlist.m3u8
 
-#EXTINF:0 tvg-name="" tvg-logo="" audio-track="por,eng" group-title="Minha Lista" ,TV Votorantim - SP
-https://v8.ciclano.io:1443/tvvotorantim/_definst_/tvvotorantim/playlist.m3u8
+#EXTINF:0 tvg-name="" tvg-logo="" audio-track="por,eng" group-title="Minha Lista" ,TV Votorantim SP
+https://stmv1.paineldevideo.com.br/tvvotorantim/tvvotorantim/playlist.m3u8
 ## *********************** CANAIS DE VARIEDADES MUSICAS ********************
 #EXTINF:0 tvg-name="" tvg-logo="" audio-track="por,eng" group-title="Minha Lista" ,Blink 102 FM - Campo Grande MS
 https://5ad482a77183d.streamlock.net/blinkblink.com.br/blinkblink.com.br/playlist.m3u8
@@ -1282,6 +1281,7 @@ http://0.0.0.0
 
 #EXTINF:0 tvg-name="" tvg-logo="" audio-track="por,eng" aspect-ratio="4:3" group-title="Minha Lista" ,..
 usb://logo-lg.mp4
+
 
 
 
