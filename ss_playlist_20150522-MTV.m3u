@@ -62,19 +62,19 @@ dtv://antenna:44/atsc/44/1
 #EXTINF:0 channelId="2449" tvg-logo="" audio-track="por,eng" group-title="Minha Lista" ,Canção Nova SP
 dtv://antenna:42/atsc/45/1
 
-#EXTINF:0 tvg-name="" tvg-logo="" group-title="Minha Lista" ,.Off
+#EXTINF:0 tvg-name="" tvg-logo="" group-title="Minha Lista" ,TV_off
 https://0.0.0.0
 
-#EXTINF:0 tvg-name="" tvg-logo="" group-title="Minha Lista" ,.Off
+#EXTINF:0 tvg-name="" tvg-logo="" group-title="Minha Lista" ,TV_off
 https://0.0.0.0
 
-#EXTINF:0 tvg-name="" tvg-logo="" group-title="Minha Lista" ,.Off
+#EXTINF:0 tvg-name="" tvg-logo="" group-title="Minha Lista" ,TV_off
 https://0.0.0.0
 
-#EXTINF:0 tvg-name="" tvg-logo="" group-title="Minha Lista" ,.Off
+#EXTINF:0 tvg-name="" tvg-logo="" group-title="Minha Lista" ,TV_off
 https://0.0.0.0
 
-#EXTINF:0 tvg-name="" tvg-logo="" group-title="Minha Lista" ,.Off
+#EXTINF:0 tvg-name="" tvg-logo="" group-title="Minha Lista" ,TV_off
 https://0.0.0.0
 
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="" group-title="Minha Lista" ,TV Cultura Pará - Belém PA
@@ -116,7 +116,7 @@ dtv://antenna:35/atsc/35/1
 #EXTINF:0 tvg-name="" tvg-logo="encurtador.com.br/nJUX1" audio-track="por,eng" group-title="Minha Lista" ,Canal 29 HD - SP
 https://stmv1.srvif.com/canal29/canal29/playlist.m3u8
 
-#EXTINF:0 tvg-name="" tvg-logo="" audio-track="por,eng" group-title="Minha Lista" ,.Off
+#EXTINF:0 tvg-name="" tvg-logo="" audio-track="por,eng" group-title="Minha Lista" ,TV_off
 http://0.0.0.0
 
 #EXTINF:0 tvg-name="" tvg-logo="" audio-track="por,eng" group-title="Minha Lista" ,Nativa Tv - Manaus AM
@@ -138,7 +138,7 @@ dtv://antenna:41/atsc/41/1
 #EXTINF:0 type="stream" tvg-name="CBN" tvg-logo="" audio-track="por,eng" group-title="Minha Lista" ,Rádio CBN - SP
 https://playerservices.streamtheworld.com/api/livestream-redirect/CBN_SPAAC.aac
 
-#EXTINF:0 type="stream" tvg-name="" tvg-logo="" audio-track="por,eng" group-title="Minha Lista" ,.Off
+#EXTINF:0 type="stream" tvg-name="" tvg-logo="" audio-track="por,eng" group-title="Minha Lista" ,TV_off
 https://0.0.0.0
 
 #EXTINF:0 tvg-name="" tvg-logo="http://i.imgur.com/3AJYeJB.jpg" audio-track="por,eng" group-title="Minha Lista" ,Rádio CBN - BH
@@ -150,7 +150,7 @@ https://centova5.transmissaodigital.com:20035/;
 #EXTINF:0 type="stream" tvg-name="" tvg-logo="http://goo.gl/s3R6m4" audio-track="por,eng" group-title="Minha Lista" ,Radio Itatiaia 95.7 FM - BH
 https://8903.brasilstream.com.br/stream
 
-#EXTINF:0 tvg-name="" tvg-logo="" audio-track="por,eng" group-title="Minha Lista" ,.Off
+#EXTINF:0 tvg-name="" tvg-logo="" audio-track="por,eng" group-title="Minha Lista" ,TV_off
 https://0.0.0.0
 
 #EXTINF:0 tvg-name="Rede Vida" tvg-logo="" audio-track="por,eng" group-title="Minha Lista" ,Rede Vida-1 HD
@@ -171,7 +171,7 @@ dtv://antenna:26/atsc/52/1
 #EXTINF:0 tvg-name="Rede Vida" tvg-logo="" audio-track="por,eng" group-title="Minha Lista" ,Rede Vida-3 HD
 dtv://antenna:49/atsc/48/3
 
-#EXTINF:0 tvg-name="" tvg-logo="" audio-track="por,eng" group-title="Minha Lista" ,.Off
+#EXTINF:0 tvg-name="" tvg-logo="" audio-track="por,eng" group-title="Minha Lista" ,TV_off
 https://0.0.0.0
 
 #EXTINF:0 tvg-name="" tvg-logo="" audio-track="por,eng" group-title="Minha Lista" ,Rádio Studio Souto Goiânia - Love Songs
@@ -180,7 +180,7 @@ https://centova5.transmissaodigital.com:20022/;
 #EXTINF:0 tvg-name="" tvg-logo="" audio-track="por,eng" group-title="Minha Lista" ,Rádio Studio Souto Goiânia - MPB Musicalidade
 https://centova5.transmissaodigital.com:20025/;
 
-#EXTINF:0 channelId="" tvg-logo="" audio-track="por,eng" group-title="Minha Lista" ,.Off
+#EXTINF:0 channelId="" tvg-logo="" audio-track="por,eng" group-title="Minha Lista" ,TV_off
 https://0.0.0.0
 
 #EXTINF:0 tvg-name="" tvg-logo="https://goo.gl/c6GVN0" audio-track="por,eng" group-title="Minha Lista" ,Rede Brasil - SP
@@ -207,10 +207,10 @@ dtv://antenna:45/atsc/11/4
 #EXTINF:0 type="stream" channelId="" tvg-logo="" audio-track="por,eng" group-title="Minha Lista" ,Unisul TV - Tubarão SC
 https://sitetv.brasilstream.com.br/hls/sitetv/index.m3u8
 
-#EXTINF:0 tvg-name="" type="stream" tvg-logo="" audio-track="por,eng" group-title="Minha Lista" ,.Off
+#EXTINF:0 tvg-name="" type="stream" tvg-logo="" audio-track="por,eng" group-title="Minha Lista" ,TV_off
 https://0.0.0.0
 
-#EXTINF:0 tvg-name="" type="stream" tvg-logo="" audio-track="por,eng" group-title="Minha Lista" ,.Off
+#EXTINF:0 tvg-name="" type="stream" tvg-logo="" audio-track="por,eng" group-title="Minha Lista" ,TV_off
 https://0.0.0.0
 
 #EXTINF:0 tvg-name="TV Manchete" type="stream" tvg-name="" tvg-logo="" audio-track="por,eng" group-title="Minha Lista" ,TV Manchete - SP
@@ -274,25 +274,25 @@ http://209.222.17.241:5080/LiveApp/streams/872258137935361699746456.m3u8
 #EXTINF:0 tvg-name="TV Vila Imperial" tvg-logo="" audio-track="por,eng" group-title="Minha Lista" ,TV Vila Imperial - RJ
 https://596639ebdd89b.streamlock.net/8072/8072/playlist.m3u8
 
-#EXTINF:0 tvg-name="" tvg-logo="" audio-track="por,eng" group-title="Minha Lista" ,.Off
+#EXTINF:0 tvg-name="" tvg-logo="" audio-track="por,eng" group-title="Minha Lista" ,TV_off
 http://0.0.0.0
 
 #EXTINF:0 tvg-name="" tvg-logo="" audio-track="por,eng" group-title="Minha Lista" ,Tv Metropolitana - Rj
 https://alanza.iptv2022.com/METROPOLITANA_RIO/index.m3u8
 
-#EXTINF:0 type="stream" tvg-logo="" audio-track="por,eng" group-title="Minha Lista" ,.Off
+#EXTINF:0 type="stream" tvg-logo="" audio-track="por,eng" group-title="Minha Lista" ,TV_off
 https://0.0.0.0
 
 #EXTINF:0 tvg-id="" tvg-name="Rede TV Sul" tvg-logo="http://abre.pw/images/canais/bis-hd.png" group-title="Minha Lista" ,Rede TV Sul - SC
 https://5a0c3936c25c8.streamlock.net/8032/8032/playlist.m3u8
 
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="" group-title="Minha Lista" ,.Off
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="" group-title="Minha Lista" ,TV_off
 http://0.0.0.0
 
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="" group-title="Minha Lista" ,.Off
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="" group-title="Minha Lista" ,TV_off
 http://0.0.0.0
 
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="" group-title="Minha Lista" ,.Off
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="" group-title="Minha Lista" ,TV_off
 http://0.0.0.0
 
 #EXTINF:0 tvg-name="" tvg-logo="" audio-track="por,eng" group-title="Minha Lista" ,Rede CNT HD
@@ -302,70 +302,70 @@ dtv://antenna:38/atsc/56/1
 https://video04.logicahost.com.br/cariocainternacional/cariocainternacional/playlist.m3u8
 
 ## *********************** CANAIS ABERTO DIVERSOS ********************
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="" group-title="Minha Lista" ,.Off
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="" group-title="Minha Lista" ,TV_off
 http://0.0.0.0
 
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="" group-title="Minha Lista" ,.Off
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="" group-title="Minha Lista" ,TV_off
 http://0.0.0.0
 
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="" group-title="Minha Lista" ,.Off
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="" group-title="Minha Lista" ,TV_off
 http://0.0.0.0
 
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="" group-title="Minha Lista" ,.Off
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="" group-title="Minha Lista" ,TV_off
 http://0.0.0.0
 
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="" group-title="Minha Lista" ,.Off
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="" group-title="Minha Lista" ,TV_off
 http://0.0.0.0
 
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="" group-title="Minha Lista" ,.Off
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="" group-title="Minha Lista" ,TV_off
 http://0.0.0.0
 
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="" group-title="Minha Lista" ,.Off
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="" group-title="Minha Lista" ,TV_off
 http://0.0.0.0
 
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="" group-title="Minha Lista" ,.Off
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="" group-title="Minha Lista" ,TV_off
 http://0.0.0.0
 
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="" group-title="Minha Lista" ,.Off
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="" group-title="Minha Lista" ,TV_off
 http://0.0.0.0
 
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="" group-title="Minha Lista" ,.Off
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="" group-title="Minha Lista" ,TV_off
 http://0.0.0.0
 
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="" group-title="Minha Lista" ,.Off
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="" group-title="Minha Lista" ,TV_off
 http://0.0.0.0
 
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="" group-title="Minha Lista" ,.Off
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="" group-title="Minha Lista" ,TV_off
 http://0.0.0.0
 
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="" group-title="Minha Lista" ,.Off
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="" group-title="Minha Lista" ,TV_off
 http://0.0.0.0
 
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="" group-title="Minha Lista" ,.Off
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="" group-title="Minha Lista" ,TV_off
 http://0.0.0.0
 
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="" group-title="Minha Lista" ,.Off
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="" group-title="Minha Lista" ,TV_off
 http://0.0.0.0
 
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="" group-title="Minha Lista" ,.Off
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="" group-title="Minha Lista" ,TV_off
 http://0.0.0.0
 
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="" group-title="Minha Lista" ,.Off
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="" group-title="Minha Lista" ,TV_off
 http://0.0.0.0
 
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="" group-title="Minha Lista" ,.Off
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="" group-title="Minha Lista" ,TV_off
 http://0.0.0.0
 
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="" group-title="Minha Lista" ,.Off
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="" group-title="Minha Lista" ,TV_off
 http://0.0.0.0
 
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="" group-title="Minha Lista" ,.Off
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="" group-title="Minha Lista" ,TV_off
 http://0.0.0.0
 
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="" group-title="Minha Lista" ,.Off
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="" group-title="Minha Lista" ,TV_off
 http://0.0.0.0
 
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="" group-title="Minha Lista" ,.Off
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="" group-title="Minha Lista" ,TV_off
 http://0.0.0.0
 
 #EXTINF:0 channelId="" tvg-logo="" audio-track="por,eng" group-title="Minha Lista" ,TVN Brasil DF
@@ -374,19 +374,19 @@ http://painelvj.com.br:1935/tvnbrasil/tvnbrasil.sdp/live.m3u8
 #EXTINF:0 tvg-name="" tvg-logo="" audio-track="por,eng" group-title="Minha Lista" ,TV Geral - BA
 https://livefocamundo.com:8081/camaramunicipaldediasdavila/index.m3u8
 
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="" group-title="Minha Lista" ,.Off
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="" group-title="Minha Lista" ,TV_off
 http://0.0.0.0
 
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="" group-title="Minha Lista" ,.Off
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="" group-title="Minha Lista" ,TV_off
 http://0.0.0.0
 
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="" group-title="Minha Lista" ,.Off
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="" group-title="Minha Lista" ,TV_off
 http://0.0.0.0
 
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="" group-title="Minha Lista" ,.Off
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="" group-title="Minha Lista" ,TV_off
 http://0.0.0.0
 
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="" group-title="Minha Lista" ,.Off
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="" group-title="Minha Lista" ,TV_off
 http://0.0.0.0
 
 #EXTINF:0 type="stream" tvg-name="" tvg-logo="" audio-track="por,eng" group-title="Minha Lista" ,TV Plan Poços de Caldas-MG
@@ -686,7 +686,7 @@ https://5cf4a2c2512a2.streamlock.net/dgrau/dgrau/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Copa do Nordeste HD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/1/19/CopaNordeste2017.png" group-title="Minha Lista" ,Copa do Nordeste HD
 http://0.0.0.0
 
-#EXTINF:0 tvg-id="PremiereFC" tvg-name="Premiere Clubes HD" tvg-logo="http://abre.pw/images/canais//premiere-hd.png" group-title="Minha Lista" ,TV em Off
+#EXTINF:0 tvg-id="PremiereFC" tvg-name="Premiere Clubes HD" tvg-logo="http://abre.pw/images/canais//premiere-hd.png" group-title="Minha Lista" ,TV_off
 http://0.0.0.0
 
 #EXTINF:0 tvg-id="Premiere 1" tvg-name="Premiere 1 HD" tvg-logo="http://abre.pw/images/canais//premiere-hd.png" group-title="Minha Lista" ,Premiere 1 HD
@@ -710,7 +710,7 @@ https://live-02.edge-oi-mpi-mg.video.globo.com/j/eyJhbGciOiJSUzUxMiIsImtpZCI6IjE
 #EXTINF:0 tvg-id="" tvg-name="Premiere 7 HD" tvg-logo="http://abre.pw/images/canais/premiere-hd.png" group-title="Minha Lista" ,Premiere Mosaico HD .mtv
 https://live-01.edge-oi-mpi-mg.video.globo.com/j/eyJhbGciOiJSUzUxMiIsImtpZCI6IjEiLCJ0eXAiOiJKV1QifQ.eyJjb3VudHJ5X2NvZGUiOiJCUiIsImRvbWFpbiI6ImxpdmUtMDEuZWRnZS1vaS1tcGktbWcudmlkZW8uZ2xvYm8uY29tIiwiZXhwIjoxNzAxOTkzODA0LCJpYXQiOjE3MDE5MDc0MDQsImlzcyI6InBsYXliYWNrLWFwaS1wcm9kLWdjcCIsIm93bmVyIjoiNTQwYjY4YWMtYWVlZC00MmJhLWEwNWEtZTY1NzA0YzVlYTc5IiwicGF0aCI6Ii9udS9mKGk9MikvcGZjOS9wbGF5bGlzdC5tM3U4In0.wqtn0Mk2yRAGEjVdslm9oF18EK9FuS9NT-r0D6A5EQYFmiZm8N9YgPZ-A68XUk7sGLiVvq0IcTqUKdfRF8Pt1CI3EszkElouglDxF9qYkW3MfP7FLrPO7U9bjPHwvEiS2L3i1FQ38563tJ9Df9Fpz3XPL2ULcokxmMAFvRRKLZgt5Yswhu1B5OWwKFqBbavHNsTV_F3oZneWmqu0l3L4wSC5uZTQnDwuI9MiSMN6w5afLa3IMahhgYfFrhtKHEXnzUL-OBtFzSzkqx3b0NIsnYt-GxpCzYM70obUxXhjltpgTAl7ULGM_Yhjn0ZKnjqRt1pSlXouZ9gqGUsZj8ymcw/nu/f(i=2)/pfc9/playlist.m3u8
 
-#EXTINF:0 tvg-name="" tvg-logo="" audio-track="por,eng" group-title="Minha Lista" ,TV em Off
+#EXTINF:0 tvg-name="" tvg-logo="" audio-track="por,eng" group-title="Minha Lista" ,TV_off
 http://0.0.0.0
 
 #EXTINF:0 tvg-name="" tvg-logo="" audio-track="por,eng" group-title="Minha Lista" ,SPORT TV 4
@@ -764,22 +764,22 @@ http://esioslive6-i.akamaihd.net/hls/live/202892/AL_P_ESP1_FR_FRA/playlist.m3u8
 #EXTINF:0 tvg-name="" tvg-logo="" audio-track="por,eng" group-title="Minha Lista" ,Bursa SporTV RU
 http://stream.yayindayiz.biz/Bursaspor/bursaspor/hasbahca.m3u8
 
-#EXTINF:0 tvg-name="" tvg-logo="" audio-track="por,eng" group-title="Minha Lista" ,TV em Off
+#EXTINF:0 tvg-name="" tvg-logo="" audio-track="por,eng" group-title="Minha Lista" ,TV_off
 http://0.0.0.0
 
-#EXTINF:0 tvg-name="" tvg-logo="" audio-track="por,eng" group-title="Minha Lista" ,TV em Off
+#EXTINF:0 tvg-name="" tvg-logo="" audio-track="por,eng" group-title="Minha Lista" ,TV_off
 http://0.0.0.0
 
-#EXTINF:0 tvg-name="" tvg-logo="" audio-track="por,eng" group-title="Minha Lista" ,TV em Off
+#EXTINF:0 tvg-name="" tvg-logo="" audio-track="por,eng" group-title="Minha Lista" ,TV_off
 http://0.0.0.0
 
-#EXTINF:0 tvg-name="" tvg-logo="" audio-track="por,eng" group-title="Minha Lista" ,TV em Off
+#EXTINF:0 tvg-name="" tvg-logo="" audio-track="por,eng" group-title="Minha Lista" ,TV_off
 http://0.0.0.0
 
-#EXTINF:0 tvg-name="" tvg-logo="" audio-track="por,eng" group-title="Minha Lista" ,TV em Off
+#EXTINF:0 tvg-name="" tvg-logo="" audio-track="por,eng" group-title="Minha Lista" ,TV_off
 http://0.0.0.0
 
-#EXTINF:0 tvg-name="" tvg-logo="" audio-track="por,eng" group-title="Minha Lista" ,TV em Off
+#EXTINF:0 tvg-name="" tvg-logo="" audio-track="por,eng" group-title="Minha Lista" ,TV_off
 http://0.0.0.0
 ## *********************** CANAIS NACIONAL DE VARIEDADES ********************
 #EXTINF:0 tvg-id="" tvg-name="GNT HD" tvg-logo="http://abre.pw/images/canais/gnt-hd.png" group-title="Minha Lista" ,GNT HD .mtv
@@ -866,7 +866,7 @@ http://link.sv01.pw:80/hfWZyT5BKr/YIQr2nKNTV/5
 #EXTINF:0 tvg-id="TBS" tvg-name="TBS HD" tvg-logo="http://abre.pw/images/canais/tbs.png" group-title="Minha Lista" ,TBS HD .mtv
 http://link.sv01.pw:80/hfWZyT5BKr/YIQr2nKNTV/10665
 
-#EXTINF:0 tvg-name="" tvg-logo="" audio-track="por,eng" group-title="Minha Lista" ,TV em Off
+#EXTINF:0 tvg-name="" tvg-logo="" audio-track="por,eng" group-title="Minha Lista" ,TV_off
 http://0.0.0.0
 
 #EXTINF:0 tvg-id="Studio Universal" tvg-name="Studio Universal HD" tvg-logo="http://abre.pw/images/canais/studio-universal-hd.png" group-title="Minha Lista" ,Studio Universal HD .mtv
@@ -935,61 +935,61 @@ http://link.sv01.pw:80/hfWZyT5BKr/YIQr2nKNTV/70
 #EXTINF:0 tvg-id="Prime Box Brazil" tvg-name="Prime Box Brasil HD" tvg-logo="" group-title="Minha Lista" ,Prime Box Brasil SD .mtv
 http://link.sv01.pw:80/hfWZyT5BKr/YIQr2nKNTV/10782
 
-#EXTINF:0 tvg-name="" tvg-logo="" audio-track="por,eng" group-title="Minha Lista" ,TV em Off
+#EXTINF:0 tvg-name="" tvg-logo="" audio-track="por,eng" group-title="Minha Lista" ,TV_off
 http://0.0.0.0
 
-#EXTINF:0 tvg-name="" tvg-logo="" audio-track="por,eng" group-title="Minha Lista" ,TV em Off
+#EXTINF:0 tvg-name="" tvg-logo="" audio-track="por,eng" group-title="Minha Lista" ,TV_off
 http://0.0.0.0
 
-#EXTINF:0 tvg-name="" tvg-logo="" audio-track="por,eng" group-title="Minha Lista" ,TV em Off
+#EXTINF:0 tvg-name="" tvg-logo="" audio-track="por,eng" group-title="Minha Lista" ,TV_off
 http://0.0.0.0
 
-#EXTINF:0 tvg-name="" tvg-logo="" audio-track="por,eng" group-title="Minha Lista" ,TV em Off
+#EXTINF:0 tvg-name="" tvg-logo="" audio-track="por,eng" group-title="Minha Lista" ,TV_off
 http://0.0.0.0
 
-#EXTINF:0 tvg-name="" tvg-logo="" audio-track="por,eng" group-title="Minha Lista" ,TV em Off
+#EXTINF:0 tvg-name="" tvg-logo="" audio-track="por,eng" group-title="Minha Lista" ,TV_off
 http://0.0.0.0
 
-#EXTINF:0 tvg-name="" tvg-logo="" audio-track="por,eng" group-title="Minha Lista" ,TV em Off
+#EXTINF:0 tvg-name="" tvg-logo="" audio-track="por,eng" group-title="Minha Lista" ,TV_off
 http://0.0.0.0
 
-#EXTINF:0 tvg-name="" tvg-logo="" audio-track="por,eng" group-title="Minha Lista" ,TV em Off
+#EXTINF:0 tvg-name="" tvg-logo="" audio-track="por,eng" group-title="Minha Lista" ,TV_off
 http://0.0.0.0
 
-#EXTINF:0 tvg-name="" tvg-logo="" audio-track="por,eng" group-title="Minha Lista" ,TV em Off
+#EXTINF:0 tvg-name="" tvg-logo="" audio-track="por,eng" group-title="Minha Lista" ,TV_off
 http://0.0.0.0
 
-#EXTINF:0 tvg-name="" tvg-logo="" audio-track="por,eng" group-title="Minha Lista" ,TV em Off
+#EXTINF:0 tvg-name="" tvg-logo="" audio-track="por,eng" group-title="Minha Lista" ,TV_off
 http://0.0.0.0
 
-#EXTINF:0 tvg-name="" tvg-logo="" audio-track="por,eng" group-title="Minha Lista" ,TV em Off
+#EXTINF:0 tvg-name="" tvg-logo="" audio-track="por,eng" group-title="Minha Lista" ,TV_off
 http://0.0.0.0
 
-#EXTINF:0 tvg-name="" tvg-logo="" audio-track="por,eng" group-title="Minha Lista" ,TV em Off
+#EXTINF:0 tvg-name="" tvg-logo="" audio-track="por,eng" group-title="Minha Lista" ,TV_off
 http://0.0.0.0
 
-#EXTINF:0 tvg-name="" tvg-logo="" audio-track="por,eng" group-title="Minha Lista" ,TV em Off
+#EXTINF:0 tvg-name="" tvg-logo="" audio-track="por,eng" group-title="Minha Lista" ,TV_off
 http://0.0.0.0
 
-#EXTINF:0 tvg-name="" tvg-logo="" audio-track="por,eng" group-title="Minha Lista" ,TV em Off
+#EXTINF:0 tvg-name="" tvg-logo="" audio-track="por,eng" group-title="Minha Lista" ,TV_off
 http://0.0.0.0
 
-#EXTINF:0 tvg-name="" tvg-logo="" audio-track="por,eng" group-title="Minha Lista" ,TV em Off
+#EXTINF:0 tvg-name="" tvg-logo="" audio-track="por,eng" group-title="Minha Lista" ,TV_off
 http://0.0.0.0
 
-#EXTINF:0 tvg-name="" tvg-logo="" audio-track="por,eng" group-title="Minha Lista" ,TV em Off
+#EXTINF:0 tvg-name="" tvg-logo="" audio-track="por,eng" group-title="Minha Lista" ,TV_off
 http://0.0.0.0
 
-#EXTINF:0 tvg-name="" tvg-logo="" audio-track="por,eng" group-title="Minha Lista" ,TV em Off
+#EXTINF:0 tvg-name="" tvg-logo="" audio-track="por,eng" group-title="Minha Lista" ,TV_off
 http://0.0.0.0
 
-#EXTINF:0 tvg-name="" tvg-logo="" audio-track="por,eng" group-title="Minha Lista" ,TV em Off
+#EXTINF:0 tvg-name="" tvg-logo="" audio-track="por,eng" group-title="Minha Lista" ,TV_off
 http://0.0.0.0
 
-#EXTINF:0 tvg-name="" tvg-logo="" audio-track="por,eng" group-title="Minha Lista" ,TV em Off
+#EXTINF:0 tvg-name="" tvg-logo="" audio-track="por,eng" group-title="Minha Lista" ,TV_off
 http://0.0.0.0
 
-#EXTINF:0 tvg-name="" tvg-logo="" audio-track="por,eng" group-title="Minha Lista" ,TV em Off
+#EXTINF:0 tvg-name="" tvg-logo="" audio-track="por,eng" group-title="Minha Lista" ,TV_off
 http://0.0.0.0
 ## *********************** CANAIS NACIONAL DE FILMES INFANTIL ********************
 #EXTINF:0 tvg-id="Boomerang" tvg-name="Boomerang HD" tvg-logo="http://abre.pw/images/canais/boomerang-hd.png" group-title="Minha Lista" ,Boomerang HD .mtv
@@ -1037,28 +1037,28 @@ http://0.0.0.0
 #EXTINF:0 tvg-id="" tvg-name="TV RA TIM BUM HD" tvg-logo="" group-title="Minha Lista" ,TV RA TIM BUM HD .mtv
 http://link.sv01.pw:80/hfWZyT5BKr/YIQr2nKNTV/14940
 
-#EXTINF:0 tvg-name="" tvg-logo="" audio-track="por,eng" group-title="Minha Lista" ,TV em Off
+#EXTINF:0 tvg-name="" tvg-logo="" audio-track="por,eng" group-title="Minha Lista" ,TV_off
 http://0.0.0.0
 
-#EXTINF:0 tvg-name="" tvg-logo="" audio-track="por,eng" group-title="Minha Lista" ,TV em Off
+#EXTINF:0 tvg-name="" tvg-logo="" audio-track="por,eng" group-title="Minha Lista" ,TV_off
 http://0.0.0.0
 
-#EXTINF:0 tvg-name="" tvg-logo="" audio-track="por,eng" group-title="Minha Lista" ,TV em Off
+#EXTINF:0 tvg-name="" tvg-logo="" audio-track="por,eng" group-title="Minha Lista" ,TV_off
 http://0.0.0.0
 
-#EXTINF:0 tvg-name="" tvg-logo="" audio-track="por,eng" group-title="Minha Lista" ,TV em Off
+#EXTINF:0 tvg-name="" tvg-logo="" audio-track="por,eng" group-title="Minha Lista" ,TV_off
 http://0.0.0.0
 
-#EXTINF:0 tvg-name="" tvg-logo="" audio-track="por,eng" group-title="Minha Lista" ,TV em Off
+#EXTINF:0 tvg-name="" tvg-logo="" audio-track="por,eng" group-title="Minha Lista" ,TV_off
 http://0.0.0.0
 
-#EXTINF:0 tvg-name="" tvg-logo="" audio-track="por,eng" group-title="Minha Lista" ,TV em Off
+#EXTINF:0 tvg-name="" tvg-logo="" audio-track="por,eng" group-title="Minha Lista" ,TV_off
 http://0.0.0.0
 
-#EXTINF:0 tvg-name="" tvg-logo="" audio-track="por,eng" group-title="Minha Lista" ,TV em Off
+#EXTINF:0 tvg-name="" tvg-logo="" audio-track="por,eng" group-title="Minha Lista" ,TV_off
 http://0.0.0.0
 
-#EXTINF:0 tvg-name="" tvg-logo="" audio-track="por,eng" group-title="Minha Lista" ,TV em Off
+#EXTINF:0 tvg-name="" tvg-logo="" audio-track="por,eng" group-title="Minha Lista" ,TV_off
 http://0.0.0.0
 ## ********************** CANAIS DE DOCUMENTÁRIOS ************************
 #EXTINF:0 tvg-id="Nat Geo" tvg-name="Nat Geo HD" tvg-logo="http://abre.pw/images/canais/national-geography-hd.png" group-title="Minha Lista" ,Nat Geo HD .mtv
@@ -1106,25 +1106,25 @@ http://link.sv01.pw:80/hfWZyT5BKr/YIQr2nKNTV/6238
 #EXTINF:0 tvg-name="" tvg-logo="https://goo.gl/YChzsw" audio-track="por,eng" group-title="Minha Lista" ,Livre TV
 http://172.93.110.130:1935/livretv/livretv/playlist.m3u8
 
-#EXTINF:0 tvg-name="" tvg-logo="" audio-track="por,eng" group-title="Minha Lista" ,TV em Off
+#EXTINF:0 tvg-name="" tvg-logo="" audio-track="por,eng" group-title="Minha Lista" ,TV_off
 http://0.0.0.0
 
-#EXTINF:0 tvg-name="" tvg-logo="" audio-track="por,eng" group-title="Minha Lista" ,TV em Off
+#EXTINF:0 tvg-name="" tvg-logo="" audio-track="por,eng" group-title="Minha Lista" ,TV_off
 http://0.0.0.0
 
-#EXTINF:0 tvg-name="" tvg-logo="" audio-track="por,eng" group-title="Minha Lista" ,TV em Off
+#EXTINF:0 tvg-name="" tvg-logo="" audio-track="por,eng" group-title="Minha Lista" ,TV_off
 http://0.0.0.0
 
-#EXTINF:0 tvg-name="" tvg-logo="" audio-track="por,eng" group-title="Minha Lista" ,TV em Off
+#EXTINF:0 tvg-name="" tvg-logo="" audio-track="por,eng" group-title="Minha Lista" ,TV_off
 http://0.0.0.0
 
-#EXTINF:0 tvg-name="" tvg-logo="" audio-track="por,eng" group-title="Minha Lista" ,TV em Off
+#EXTINF:0 tvg-name="" tvg-logo="" audio-track="por,eng" group-title="Minha Lista" ,TV_off
 http://0.0.0.0
 
-#EXTINF:0 tvg-name="" tvg-logo="" audio-track="por,eng" group-title="Minha Lista" ,TV em Off
+#EXTINF:0 tvg-name="" tvg-logo="" audio-track="por,eng" group-title="Minha Lista" ,TV_off
 http://0.0.0.0
 
-#EXTINF:0 tvg-name="" tvg-logo="" audio-track="por,eng" group-title="Minha Lista" ,TV em Off
+#EXTINF:0 tvg-name="" tvg-logo="" audio-track="por,eng" group-title="Minha Lista" ,TV_off
 http://0.0.0.0
 ## ****************** NOTICIAS INTERNACIONAIS ************************
 #EXTINF:0 tvg-name="" tvg-logo="https://goo.gl/3hBNmV" audio-track="por,eng" group-title="Minha Lista" ,ABC News USA
@@ -1282,10 +1282,4 @@ http://0.0.0.0
 
 #EXTINF:0 tvg-name="" tvg-logo="" audio-track="por,eng" aspect-ratio="4:3" group-title="Minha Lista" ,..
 usb://logo-lg.mp4
-
-
-
-
-
-
 
