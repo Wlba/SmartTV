@@ -82,8 +82,11 @@ http://paineldj4.com.br:10234/stream
 #EXTINF:0,******* Playlist GO *******
 http://
 
-#EXTINF:0,TV SBT SP
+#EXTINF:0,TV SBT01 SP
 https://youtu.be/VayOrXlERHs
+
+#EXTINF:0,TV SBT02 SP
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1766215875/ei/Y_xFaY2_Bcml4dUPl6ycwAw/ip/2804%3Ad45%3Ac2b7%3A2800%3A395e%3Ad66%3A55aa%3A134/id/VayOrXlERHs.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/gcr/br/ss/1/ssa/1/bui/AYUSA3CgAVEFGsv8moVqbd8UTu0q43Y4GoedMx-gO08YhaziylBgVMRCfXdh7kxNDIjw0VGuEbLjHMJg/spc/wH4Qq9Cyr5GdloFaRnKApl5OjosaeblzFDnufFh7teOJvaBjX-p_OMcs55d0XA0RPP8/vprv/1/go/1/ns/v5IaMWcHHrRxWrDaziSWr34R/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912%2C51552689%2C51565116%2C51565682%2C51580968/dover/11/n/SFrp0KGt5k1Kxedwps/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cgcr%2Css%2Cssa%2Cbui%2Cspc%2Cvprv%2Cgo%2Cns%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIgQ9SRdmKRfDN6AjP91O4fKNl7m6JrsHWcVuiNFJ0iJhECIQClK9J6ObgZj2_3LnmoCfE6LrJzYzrHms6M3VX_xn_95g%3D%3D/file/index.m3u8
 
 #EXTINF:0,Rádio Studio Souto MPB Musicalidade Goiânia GO
 http://centova5.transmissaodigital.com:8090/stream
@@ -109,6 +112,7 @@ http://centova5.transmissaodigital.com:8038/stream
 #EXTINF:0,Podcast do Café Brasil
 https://26173.mc.tritondigital.com/OMNY_CAFBRASIL1_PODCAST_P/media-session/5c53ddf9-6a2d-4a1f-87ad-0e9aea25f943/d/clips/f7f86f6a-2fbd-4ac7-ab53-b01900e5d187/0b349484-4d83-43ce-8659-b03d0017a89a/929983f9-70cb-4f50-894a-b0b9012a1e50/audio/direct/t1700017292/Cafe_Brasil_900_-_How_Deep_Is_Your_Love.mp3?t=1700017292&in_playlist=a1ad452c-1e44-42fe-9590-b03d0017a8b2&utm_source=Podcast
 #######################################################
+
 
 
 
